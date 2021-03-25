@@ -1,0 +1,721 @@
+coin_name,website,ip,org,city,country,region,loc,postal,timezone,ip_location_error,hostname,anycast
+Bitcoin,https://bitcoin.org,138.68.248.245,"AS14061 DigitalOcean, LLC",Santa Clara,US,California,"37.3483,-121.9844",95051,America/Los_Angeles,Error,,
+Ethereum,https://ethereum.org,54.94.70.35,"AS16509 Amazon.com, Inc.",São Paulo,BR,São Paulo,"-23.5475,-46.6361",01000-000,America/Sao_Paulo,Error,ec2-54-94-70-35.sa-east-1.compute.amazonaws.com,
+Litecoin,https://litecoin.org,172.67.82.181,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Bitcoin Cash,https://www.bitcoincash.org,35.208.63.54,AS15169 Google LLC,Council Bluffs,US,Iowa,"41.2619,-95.8608",51502,America/Chicago,Error,54.63.208.35.bc.googleusercontent.com,
+Dogecoin,http://dogecoin.com,185.199.108.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-108-153.github.com,True
+Bitcoin SV,https://bitcoinsv.io,104.21.90.83,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Monero,https://getmonero.org,104.22.11.221,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Dash,https://www.dash.org,104.21.4.100,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Decred,https://decred.org,165.22.30.170,"AS14061 DigitalOcean, LLC",Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,,
+Zilliqa,https://www.zilliqa.com,104.26.8.22,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Ravencoin,https://ravencoin.org,104.21.8.23,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Ethereum Classic,http://ethereumclassic.org,172.67.68.203,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Zcash,https://z.cash,104.16.174.83,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Siacoin,http://sia.tech,45.79.157.235,"AS63949 Linode, LLC",Morris Plains,US,New Jersey,"40.8223,-74.4569",07927,America/New_York,Error,li1256-235.members.linode.com,
+DigiByte,http://www.digibyte.io,149.248.15.85,"AS20473 The Constant Company, LLC",Los Angeles,US,California,"34.0522,-118.2437",90009,America/Los_Angeles,Error,149.248.15.85.vultr.com,
+DigiByte,http://www.digibyte.io,149.248.15.85,"AS20473 The Constant Company, LLC",Los Angeles,US,California,"34.0522,-118.2437",90009,America/Los_Angeles,Error,149.248.15.85.vultr.com,
+DigiByte,http://www.digibyte.io,149.248.15.85,"AS20473 The Constant Company, LLC",Los Angeles,US,California,"34.0522,-118.2437",90009,America/Los_Angeles,Error,149.248.15.85.vultr.com,
+DigiByte,http://www.digibyte.io,149.248.15.85,"AS20473 The Constant Company, LLC",Los Angeles,US,California,"34.0522,-118.2437",90009,America/Los_Angeles,Error,149.248.15.85.vultr.com,
+DigiByte,http://www.digibyte.io,149.248.15.85,"AS20473 The Constant Company, LLC",Los Angeles,US,California,"34.0522,-118.2437",90009,America/Los_Angeles,Error,149.248.15.85.vultr.com,
+Conflux,https://confluxnetwork.org,104.21.72.138,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Bitcoin Gold,https://bitcoingold.org,104.26.0.125,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Horizen,https://zensystem.io,104.26.14.214,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Nervos Network,https://www.nervos.org,172.67.164.134,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Verge,http://vergecurrency.com,172.67.212.125,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Verge,http://vergecurrency.com,172.67.212.125,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Verge,http://vergecurrency.com,172.67.212.125,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Verge,http://vergecurrency.com,172.67.212.125,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Verge,http://vergecurrency.com,172.67.212.125,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Bitcoin Cash ABC,https://www.bitcoinabc.org,172.67.214.200,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Komodo,https://komodoplatform.com,172.67.83.98,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Hathor,https://hathor.network,65.8.205.23,"AS16509 Amazon.com, Inc.",São Paulo,BR,São Paulo,"-23.5475,-46.6361",01000-000,America/Sao_Paulo,Error,,
+QuarkChain,https://quarkchain.io,65.8.205.43,"AS16509 Amazon.com, Inc.",São Paulo,BR,São Paulo,"-23.5475,-46.6361",01000-000,America/Sao_Paulo,Error,,
+Bitcoin Diamond,http://btcd.io,172.67.152.14,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Haven,https://havenprotocol.org,35.197.254.139,AS15169 Google LLC,London,GB,England,"51.5085,-0.1257",EC1A,Europe/London,Error,139.254.197.35.bc.googleusercontent.com,
+MimbleWimble,https://www.mwc.mw,184.73.183.75,"AS14618 Amazon.com, Inc.",Ashburn,US,Virginia,"39.0437,-77.4875",20149,America/New_York,Error,ec2-184-73-183-75.compute-1.amazonaws.com,
+Syscoin,http://syscoin.org,172.67.75.111,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Bytom,http://bytom.io,47.75.116.232,"AS45102 Alibaba (US) Technology Co., Ltd.",Hong Kong,HK,Central and Western,"22.2783,114.1747",,Asia/Hong_Kong,Error,,
+Elastos,https://www.elastos.org,104.16.148.30,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Monacoin,http://monacoin.org,104.21.5.216,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+LBRY Credits,https://lbry.com,104.21.4.4,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+XeniosCoin,https://xenioscoin.com,104.21.1.109,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Handshake,https://handshake.org,172.67.221.77,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Aion,https://theoan.com,104.22.18.179,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Hyundai DAC,https://www.hdactech.com,210.91.125.204,AS4766 Korea Telecom,Seoul,KR,Seoul,"37.5660,126.9784",03186,Asia/Seoul,Error,,
+Bytecoin,https://bytecoin.org,199.247.13.29,"AS20473 The Constant Company, LLC",Paris,FR,Île-de-France,"48.8925,2.3444",75868 CEDEX 18,Europe/Paris,Error,199.247.13.29.vultr.com,
+WallStreetBets Coin,https://wsbcoin.cash,104.21.9.130,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Nimiq,https://nimiq.com,54.39.52.205,AS16276 OVH SAS,Toronto,CA,Ontario,"43.7001,-79.4163",M5N,America/Toronto,Error,web-can-1.inf.nimiq.network,
+Beam,https://www.beam.mw,172.67.37.146,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Nexus,https://nexus.io,69.195.149.58,"AS19969 Joe's Datacenter, LLC",Kansas City,US,Kansas,"39.1142,-94.6275",66101,America/Chicago,Error,site.nexus.io,
+Ergo,http://ergoplatform.org,104.21.34.26,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+BigBang,https://www.bigbangcore.com,47.91.176.7,"AS45102 Alibaba (US) Technology Co., Ltd.",Kowloon,HK,Kowloon City,"22.3167,114.1833",,Asia/Hong_Kong,Error,,
+Einsteinium,https://emc2.foundation,198.185.159.144,"AS53831 Squarespace, Inc.",New York City,US,New York,"40.7339,-74.0054",10014,America/New_York,Error,,True
+Aeternity,https://www.aeternity.com,104.21.1.196,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Groestlcoin,http://www.groestlcoin.org,172.67.187.88,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+MOAC,https://moac.io,52.15.228.248,"AS16509 Amazon.com, Inc.",Hilliard,US,Ohio,"40.0334,-83.1582",43026,America/New_York,Error,ec2-52-15-228-248.us-east-2.compute.amazonaws.com,
+DARMA Cash,https://www.darmacash.com,54.179.133.132,"AS16509 Amazon.com, Inc.",Singapore,SG,Singapore,"1.2897,103.8501",048508,Asia/Singapore,Error,ec2-54-179-133-132.ap-southeast-1.compute.amazonaws.com,
+Firo,https://zcoin.io,172.67.69.13,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Pirate Chain,https://pirate.black,104.26.6.18,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Kadena,https://www.kadena.io,35.247.254.172,AS15169 Google LLC,São Paulo,BR,São Paulo,"-23.5475,-46.6361",01000-000,America/Sao_Paulo,Error,172.254.247.35.bc.googleusercontent.com,
+HyperCash,https://h.cash,47.88.219.153,"AS45102 Alibaba (US) Technology Co., Ltd.",Singapore,SG,Singapore,"1.2897,103.8501",048508,Asia/Singapore,Error,,
+VerusCoin,https://verus.io,168.119.27.244,AS24940 Hetzner Online GmbH,Nürnberg,DE,Bavaria,"49.4542,11.0775",90402,Europe/Berlin,Error,static.244.27.119.168.clients.your-server.de,
+Waltonchain,https://www.waltonchain.org,163.181.64.230,"AS24429 Zhejiang Taobao Network Co.,Ltd",São Paulo,BR,São Paulo,"-23.5475,-46.6361",01000-000,America/Sao_Paulo,Error,,
+Lynx,https://getlynx.io,104.21.95.111,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Cortex,http://www.cortexlabs.ai,185.203.72.17,AS42240 Variti International GmbH,Zug,CH,Zug,"47.1724,8.5175",6300,Europe/Zurich,Error,,
+LQX Coin,https://lqxcoin.com,104.21.57.151,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Super Zero,https://sero.cash,104.21.43.145,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Vertcoin,http://vertcoin.org,5.196.74.100,AS16276 OVH SAS,Gravelines,FR,Hauts-de-France,"50.9865,2.1281",59820,Europe/Paris,Error,fr1.vtconline.org,
+EarthCoin,http://earthcoin.io,13.248.216.40,"AS16509 Amazon.com, Inc.",Seattle,US,Washington,"47.6339,-122.3476",98109,America/Los_Angeles,,afdda383cf24ec8c3.awsglobalaccelerator.com,True
+Grin,https://grin.mw,185.199.108.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-108-153.github.com,True
+Metaverse,https://mvs.org,172.67.172.36,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+United Bitcoin,https://www.ub.com,18.224.45.92,"AS16509 Amazon.com, Inc.",Hilliard,US,Ohio,"40.0334,-83.1582",43026,America/New_York,Error,ec2-18-224-45-92.us-east-2.compute.amazonaws.com,
+Electronero Pulse,http://electroneropulse.org,172.67.207.37,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+TecraCoin,https://tecracoin.io,95.216.11.50,AS24940 Hetzner Online GmbH,Tuusula,FI,Uusimaa,"60.3540,24.9794",04360,Europe/Helsinki,Error,static.50.11.216.95.clients.your-server.de,
+Dero,https://dero.io,190.2.135.219,AS49981 WorldStream B.V.,Naaldwijk,NL,South Holland,"51.9942,4.2097",2671,Europe/Amsterdam,Error,customer.worldstream.nl,
+Dynamic,https://duality.solutions,172.67.163.110,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Turtlecoin,https://turtlecoin.lol,185.199.108.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-108-153.github.com,True
+Namecoin,https://namecoin.info,91.219.237.223,AS56322 ServerAstra Kft.,Nemesvámos,HU,Veszprém,"47.0551,17.8748",8248,Europe/Budapest,Error,sa1541.azar-a.net,
+Viacoin,http://viacoin.org,104.21.81.179,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+BitcoinHD,http://www.btchd.org,18.178.243.146,"AS16509 Amazon.com, Inc.",Tokyo,JP,Tokyo,"35.6895,139.6917",151-0052,Asia/Tokyo,Error,ec2-18-178-243-146.ap-northeast-1.compute.amazonaws.com,
+Quantum R L,https://theqrl.org,18.229.49.158,"AS16509 Amazon.com, Inc.",São Paulo,BR,São Paulo,"-23.5475,-46.6361",01000-000,America/Sao_Paulo,Error,ec2-18-229-49-158.sa-east-1.compute.amazonaws.com,
+Ubiq,http://ubiqsmart.com,45.63.88.43,"AS20473 The Constant Company, LLC",San Jose,US,California,"37.3329,-121.8916",95113,America/Los_Angeles,Error,45.63.88.43.vultr.com,
+Euno,https://www.euno.co,104.21.11.210,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+FlorinCoin,http://flo.cash,192.254.232.90,AS46606 Unified Layer,Glen Avon,US,California,"34.0117,-117.4848",91752,America/Los_Angeles,Error,192-254-232-90.unifiedlayer.com,
+SmartCash,https://smartcash.cc,45.32.183.53,"AS20473 The Constant Company, LLC",London,GB,England,"51.5085,-0.1257",EC1A,Europe/London,Error,45.32.183.53.vultr.com,
+ZelCash,https://zel.cash,104.21.85.5,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Zano,https://zano.org,192.241.200.111,"AS14061 DigitalOcean, LLC",San Francisco,US,California,"37.7309,-122.3886",94124,America/Los_Angeles,Error,,
+DigitalNote,https://digitalnote.org,172.67.138.56,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Aryacoin,https://aryacoin.io,104.21.95.49,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+FolgoryCoin,https://flg.folgory.com,54.38.18.246,AS16276 OVH SAS,Roubaix,FR,Hauts-de-France,"50.6942,3.1746",59051 CEDEX 1,Europe/Paris,Error,ip246.ip-54-38-18.eu,
+Xaya,https://xaya.io,104.26.4.99,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Xaya,https://xaya.io,104.26.4.99,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Peercoin,http://www.peercoin.net,76.76.21.21,"AS16509 Amazon.com, Inc.",Walnut,US,California,"34.0183,-117.8546",91789,America/Los_Angeles,Error,,
+Callisto Network,https://callisto.network,104.21.63.233,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Gleec Coin,https://gleecoin.com,78.142.6.88,AS31083 Telepoint Ltd,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,ip-142-88.telehouse.bg,
+Emercoin,http://emercoin.com,172.67.190.13,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Fedoracoin,,,,,,,,,,Error,,
+Unobtanium,http://unobtanium.uno,208.113.196.200,"AS26347 New Dream Network, LLC",Washington,US,"Washington, D.C.","38.8951,-77.0364",20045,America/New_York,Error,apache2-kip.monroe.dreamhost.com,
+BurstCoin,https://www.burst-coin.org,217.160.0.49,AS8560 1&1 IONOS SE,Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,217-160-0-49.elastic-ssl.ui-r.com,
+ScPrime,https://scpri.me,35.209.108.226,AS15169 Google LLC,Council Bluffs,US,Iowa,"41.2619,-95.8608",51502,America/Chicago,Error,226.108.209.35.bc.googleusercontent.com,
+StakeCubeCoin,https://stakecube.net,172.67.68.93,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Feathercoin,http://feathercoin.com,172.67.206.119,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Aeon,http://www.aeon.cash,185.199.109.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-109-153.github.com,True
+Bitcore,http://bitcore.cc,172.67.208.129,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Myriad,http://myriadcoin.org,207.246.82.224,"AS20473 The Constant Company, LLC",Houston,US,Texas,"29.7633,-95.3633",77052,America/Chicago,Error,207.246.82.224.vultr.com,
+Myriad,http://myriadcoin.org,207.246.82.224,"AS20473 The Constant Company, LLC",Houston,US,Texas,"29.7633,-95.3633",77052,America/Chicago,Error,207.246.82.224.vultr.com,
+Myriad,http://myriadcoin.org,207.246.82.224,"AS20473 The Constant Company, LLC",Houston,US,Texas,"29.7633,-95.3633",77052,America/Chicago,Error,207.246.82.224.vultr.com,
+Myriad,http://myriadcoin.org,207.246.82.224,"AS20473 The Constant Company, LLC",Houston,US,Texas,"29.7633,-95.3633",77052,America/Chicago,Error,207.246.82.224.vultr.com,
+Myriad,http://myriadcoin.org,207.246.82.224,"AS20473 The Constant Company, LLC",Houston,US,Texas,"29.7633,-95.3633",77052,America/Chicago,Error,207.246.82.224.vultr.com,
+GoldCoin,https://www.goldcoinproject.org,104.21.74.177,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Cannabiscoin,http://cannabiscoin.net,172.67.129.55,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Litecoin Cash,https://litecoinca.sh,172.67.133.92,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Dagger,http://xdag.io,185.199.108.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-108-153.github.com,True
+e-Gulden,https://www.e-gulden.org,81.169.145.165,AS6724 Strato AG,Karlsruhe,DE,Baden-Württemberg,"49.0094,8.4044",76133,Europe/Berlin,Error,wa5.rzone.de,
+VeriBlock,https://www.veriblock.org,149.56.37.134,AS16276 OVH SAS,Montréal,CA,Quebec,"45.5088,-73.5878",H2W,America/Toronto,Error,veriblock.com,
+Auroracoin,http://auroracoin.is,46.101.37.213,"AS14061 DigitalOcean, LLC",London,GB,England,"51.5085,-0.1257",EC1A,Europe/London,Error,ap4.apmedia.is,
+Auroracoin,http://auroracoin.is,46.101.37.213,"AS14061 DigitalOcean, LLC",London,GB,England,"51.5085,-0.1257",EC1A,Europe/London,Error,ap4.apmedia.is,
+Auroracoin,http://auroracoin.is,46.101.37.213,"AS14061 DigitalOcean, LLC",London,GB,England,"51.5085,-0.1257",EC1A,Europe/London,Error,ap4.apmedia.is,
+Auroracoin,http://auroracoin.is,46.101.37.213,"AS14061 DigitalOcean, LLC",London,GB,England,"51.5085,-0.1257",EC1A,Europe/London,Error,ap4.apmedia.is,
+Auroracoin,http://auroracoin.is,46.101.37.213,"AS14061 DigitalOcean, LLC",London,GB,England,"51.5085,-0.1257",EC1A,Europe/London,Error,ap4.apmedia.is,
+xRhodium,https://www.xrhodium.org,151.139.128.11,"AS20446 Highwinds Network Group, Inc.",Dallas,US,Texas,"32.7904,-96.8044",75201,America/Chicago,Error,,True
+Expanse,https://expanse.tech,172.67.162.101,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Ether-1,https://ether1.org,104.238.181.174,"AS20473 The Constant Company, LLC",San Rafael,US,California,"37.9735,-122.5311",94912,America/Los_Angeles,Error,104.238.181.174.vultr.com,
+Tent,https://tent.app,104.21.48.27,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Smileycoin,https://smileyco.in,185.199.111.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-111-153.github.com,True
+Smileycoin,https://smileyco.in,185.199.111.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-111-153.github.com,True
+Smileycoin,https://smileyco.in,185.199.111.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-111-153.github.com,True
+Smileycoin,https://smileyco.in,185.199.111.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-111-153.github.com,True
+Smileycoin,https://smileyco.in,185.199.111.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-111-153.github.com,True
+UFOCoin,http://ufobject.com,172.67.211.105,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Wownero,http://wownero.org,158.69.60.225,AS16276 OVH SAS,Toronto,CA,Ontario,"43.7001,-79.4163",M5N,America/Toronto,Error,225.ip-158-69-60.net,
+Qitmeer,https://qitmeer.io,8.210.82.0,"AS45102 Alibaba (US) Technology Co., Ltd.",Kowloon,HK,Kowloon City,"22.3167,114.1833",,Asia/Hong_Kong,Error,,
+Quasarcoin,http://quasarcoin.org,210.122.10.54,AS9848 Sejong Telecom,Seoul,KR,Seoul,"37.5660,126.9784",03186,Asia/Seoul,Error,,
+NEXT.Chain,https://chain.next.exchange,172.67.207.126,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Ravencoin Classic,https://ravencoinclassic.io,104.21.56.45,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Pigeoncoin,https://pigeoncoin.org,108.61.197.186,"AS20473 The Constant Company, LLC",London,GB,England,"51.5085,-0.1257",EC1A,Europe/London,Error,108.61.197.186.vultr.com,
+BitcoinZ,https://btcz.rocks,172.67.193.104,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+DimeCoin,https://www.dimecoinnetwork.com,192.124.249.6,AS30148 Sucuri,Menifee,US,California,"33.7283,-117.1464",92584,America/Los_Angeles,,cloudproxy10006.sucuri.net,True
+FreeCash,https://freecash.org,159.138.109.64,AS136907 HUAWEI CLOUDS,Singapore,SG,Singapore,"1.2897,103.8501",048508,Asia/Singapore,Error,ecs-159-138-109-64.compute.hwclouds-dns.com,
+VipStarCoin,https://www.vipstarcoin.jp,49.212.198.29,AS9371 SAKURA Internet Inc.,Toyonaka,JP,Ōsaka,"34.7824,135.4693",561-0822,Asia/Tokyo,Error,www2819.sakura.ne.jp,
+MoonCoin,http://mooncoin.com,192.64.118.79,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,server82-5.web-hosting.com,
+PascalCoin,http://www.pascalcoin.org,192.185.184.201,AS46606 Unified Layer,Houston,US,Texas,"29.7633,-95.3633",77052,America/Chicago,Error,192-185-184-201.unifiedlayer.com,
+Amoveo,https://amoveo.io,116.203.47.82,AS24940 Hetzner Online GmbH,Gunzenhausen,DE,Bavaria,"49.1166,10.7597",91710,Europe/Berlin,Error,static.82.47.203.116.clients.your-server.de,
+Bismuth,https://bismuth.cz,46.28.105.112,"AS197019 WEDOS Internet, a.s.",Hluboká nad Vltavou,CZ,Jihočeský kraj,"49.0523,14.4343",373 41,Europe/Prague,Error,wl53-wv3.wedos.net,
+Konjungate,https://www.konjungate.net,54.37.173.127,AS16276 OVH SAS,Gravelines,FR,Hauts-de-France,"50.9865,2.1281",59820,Europe/Paris,Error,cluster028.hosting.ovh.net,
+DeepOnion,https://deeponion.org,104.26.5.190,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Espers,http://espers.io,185.199.111.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-111-153.github.com,True
+BitTubeCash,https://bittube.cash,91.134.173.229,AS16276 OVH SAS,Strasbourg,FR,Grand Est,"48.5839,7.7455",67000,Europe/Paris,Error,ip229.ip-91-134-173.eu,
+Equilibria,https://www.equilibria.network,172.67.180.230,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+GlobalBoost-Y,http://globalboost-y.com,107.150.60.101,"AS33387 Nocix, LLC",Kansas City,US,Missouri,"39.0997,-94.5786",64121,America/Chicago,Error,,
+Sumokoin,https://www.sumokoin.org,135.181.95.120,AS24940 Hetzner Online GmbH,Tuusula,FI,Uusimaa,"60.3540,24.9794",04360,Europe/Helsinki,Error,static.120.95.181.135.clients.your-server.de,
+Denarius,https://denarius.io,104.21.48.98,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Zclassic,http://zclassic.org,185.199.109.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-109-153.github.com,True
+SafeCoin,https://safecoin.org,104.21.20.203,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+NewYorkCoin,https://nycoin.community,185.111.206.24,AS39923 Unix-Solutions BVBA,Brussels,BE,Brussels Capital,"50.8505,4.3488",1000,Europe/Brussels,Error,,
+LUXCoin,https://luxcore.io,104.21.58.41,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+BlockStamp,https://blockstamp.info,85.10.201.29,AS24940 Hetzner Online GmbH,Oberdorla,DE,Thuringia,"51.1658,10.4216",99986,Europe/Berlin,Error,static.85-10-201-29.clients.your-server.de,
+Zen Protocol,https://www.zenprotocol.com,104.21.7.93,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Hycon,https://hycon.io,52.89.213.251,"AS16509 Amazon.com, Inc.",Boardman,US,Oregon,"45.8399,-119.7006",97818,America/Los_Angeles,Error,ec2-52-89-213-251.us-west-2.compute.amazonaws.com,
+Veil,https://veil-project.com,172.67.139.28,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Veil,https://veil-project.com,172.67.139.28,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Veil,https://veil-project.com,172.67.139.28,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Zero,https://zerocurrency.io,172.67.209.232,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Karbo,https://karbo.io,172.67.187.180,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+QuarkCoin,https://quarkcoin.info,47.240.14.194,"AS45102 Alibaba (US) Technology Co., Ltd.",Kowloon,HK,Kowloon City,"22.3167,114.1833",,Asia/Hong_Kong,Error,,
+RussellCoin,http://russellcoin.com,167.88.177.22,AS6134 XNNET LLC,Los Angeles,US,California,"34.0522,-118.2437",90009,America/Los_Angeles,Error,,
+DubaiCoin,http://www.arabianchain.org,138.197.118.135,"AS14061 DigitalOcean, LLC",Clifton,US,New Jersey,"40.8344,-74.1377",07014,America/New_York,Error,,
+Ycash,https://www.ycash.xyz,185.199.108.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-108-153.github.com,True
+StrongHands,http://www.stronghands.info,76.76.21.21,"AS16509 Amazon.com, Inc.",Walnut,US,California,"34.0183,-117.8546",91789,America/Los_Angeles,Error,,
+Mogwaicoin,https://mogwaicoin.org,167.99.252.168,"AS14061 DigitalOcean, LLC",Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,,
+MicroBitcoin,https://microbitcoin.org,52.220.155.46,"AS16509 Amazon.com, Inc.",Singapore,SG,Singapore,"1.2897,103.8501",048508,Asia/Singapore,Error,ec2-52-220-155-46.ap-southeast-1.compute.amazonaws.com,
+FoxDcoin,https://foxdcoin.com,104.21.10.110,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Qwertycoin,https://qwertycoin.org,172.67.181.223,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Sinovate,https://sinovate.io,172.67.218.217,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+REOSC Ecosystem,https://www.reosc.io,185.203.72.17,AS42240 Variti International GmbH,Zug,CH,Zug,"47.1724,8.5175",6300,Europe/Zurich,Error,,
+Titan Coin,https://titanprojects.co,104.21.94.7,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Phoenixcoin,http://phoenixcoin.org,185.53.128.119,AS43350 NForce Entertainment B.V.,Amsterdam,NL,North Holland,"52.3740,4.8897",1012,Europe/Amsterdam,Error,,
+Epic Cash,https://epic.tech,184.168.47.225,"AS26496 GoDaddy.com, LLC",Scottsdale,US,Arizona,"33.5092,-111.8990",85261,America/Phoenix,Error,redirect-v225.secureserver.net,
+Epic Cash,https://epic.tech,184.168.47.225,"AS26496 GoDaddy.com, LLC",Scottsdale,US,Arizona,"33.5092,-111.8990",85261,America/Phoenix,Error,redirect-v225.secureserver.net,
+Epic Cash,https://epic.tech,184.168.47.225,"AS26496 GoDaddy.com, LLC",Scottsdale,US,Arizona,"33.5092,-111.8990",85261,America/Phoenix,Error,redirect-v225.secureserver.net,
+TrezarCoin,https://trezarcoin.com,207.154.254.90,"AS14061 DigitalOcean, LLC",Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,trezarcoin.com,
+Kyanite,https://kyancoin.net,172.67.187.95,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Novacoin,https://novaco.in,81.200.241.54,AS41148 Zolotaya Linia Ltd.,Penza,RU,Penza,"53.2007,45.0046",440513,Europe/Moscow,Error,mail.novaco.in,
+Canada eCoin,https://canadaecoin.site,104.21.82.126,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Conceal,https://conceal.network,198.54.116.158,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,server214-5.web-hosting.com,
+Megacoin,,,,,,,,,,Error,,
+Startcoin,https://startcoin.org,104.26.1.181,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Safex Cash,http://safex.io,161.35.127.121,"AS14061 DigitalOcean, LLC",North Bergen,US,New Jersey,"40.8043,-74.0121",07047,America/New_York,Error,,
+Bitcoin Atom,https://bitcoinatom.io,172.67.137.151,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+ZumCoin,https://zumcoin.org,192.232.251.7,AS46606 Unified Layer,Glen Avon,US,California,"34.0117,-117.4848",91752,America/Los_Angeles,Error,192-232-251-7.unifiedlayer.com,
+Magi,http://coinmagi.org,74.220.199.7,AS46606 Unified Layer,Provo,US,Utah,"40.2338,-111.6585",84601,America/Denver,Error,parking.fastdomain.com,
+Monero Classic,http://monero-classic.org,129.226.187.152,"AS132203 Tencent Building, Kejizhongyi Avenue",Kowloon,HK,Kowloon City,"22.3167,114.1833",,Asia/Hong_Kong,Error,,
+Kevacoin,https://kevacoin.org,104.21.34.122,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+5G Cash,https://fiveg.cash,161.97.105.255,AS51167 Contabo GmbH,Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,,
+Mochimo,https://mochimo.org,151.101.194.159,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Axe,https://axerunners.com,104.21.74.170,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Trollcoin,http://trollcoin.com,45.32.154.114,"AS20473 The Constant Company, LLC",Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,45.32.154.114.vultr.com,
+BiblePay,https://biblepay.org,104.21.87.81,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Pesetacoin,http://pesetacoin.info,172.67.151.182,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Sibcoin,https://sibcoin.money,104.21.24.79,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Orbitcoin,http://orbitcoin.org,130.185.249.167,AS62240 Clouvider Limited,London,GB,England,"51.5167,-0.0928",EC2R,Europe/London,Error,,
+Garlicoin,https://garlicoin.io,82.220.38.154,AS9044 BSE Software GmbH,Zürich,CH,Zurich,"47.3667,8.5500",8001,Europe/Zurich,Error,mx113.mail.hosttech.eu,
+BZEdge,,,,,,,,,,Error,,
+Sugarchain,https://sugarchain.org,185.199.108.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-108-153.github.com,True
+DeVault,https://devault.cc,198.54.126.161,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,premium12-3.web-hosting.com,
+Deutsche eMark,https://deutsche-emark.org/en,,,,,,,,,Error,,
+Actinium,https://actinium.org,140.82.32.54,"AS20473 The Constant Company, LLC",Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,140.82.32.54.vultr.com,
+EtherGem,https://egem.io,209.145.54.96,AS40021 Contabo Inc.,St. Louis,US,Missouri,"38.6273,-90.1979",63150,America/Chicago,Error,,
+IQ.cash,https://iq.cash,5.9.66.243,AS24940 Hetzner Online GmbH,Berlin,DE,Berlin,"52.5244,13.4105",10178,Europe/Berlin,Error,static.243.66.9.5.clients.your-server.de,
+WoodCoin,https://woodcoin.org,18.229.49.158,"AS16509 Amazon.com, Inc.",São Paulo,BR,São Paulo,"-23.5475,-46.6361",01000-000,America/Sao_Paulo,Error,ec2-18-229-49-158.sa-east-1.compute.amazonaws.com,
+Vidulum,https://vidulum.app,104.24.170.4,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+NobleCoin,https://www.noblemovement.com,3.24.89.96,"AS16509 Amazon.com, Inc.",Sydney,AU,New South Wales,"-33.8678,151.2073",1001,Australia/Sydney,Error,ec2-3-24-89-96.ap-southeast-2.compute.amazonaws.com,
+GrandCoin,,,,,,,,,,Error,,
+Riecoin,http://riecoin.org,185.176.227.235,AS29222 Infomaniak,Carouge,CH,Geneva,"46.1810,6.1392",1212,Europe/Zurich,Error,riecoin.dev,
+Icolcoin,,,,,,,,,,Error,,
+Scala,https://scalaproject.io,104.17.96.13,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+BitcoinR,https://www.bitcoinr.org,104.21.65.85,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+BeeNode,http://beenode.org,78.47.238.36,AS24940 Hetzner Online GmbH,Hamburg,DE,Hamburg,"53.5507,9.9930",20038,Europe/Berlin,Error,mail.beenode.org,
+FujiCoin,https://fujicoin.org,172.67.184.115,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Fedora Gold,https://fedoragold.com,172.86.75.248,AS40676 Psychz Networks,Amsterdam,NL,North Holland,"52.3630,4.8924",1017,Europe/Amsterdam,Error,,
+Maxcoin,https://maxcoinproject.org,104.21.45.19,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Ritocoin,https://ritocoin.org,67.205.137.250,"AS14061 DigitalOcean, LLC",North Bergen,US,New Jersey,"40.8043,-74.0121",07047,America/New_York,Error,,
+Ryo Currency,https://ryo-currency.com,176.223.130.195,AS62282 UAB Rakrejus,Vilnius,LT,Vilnius,"54.6863,25.2028",04306,Europe/Vilnius,Error,ryo-currency.com,
+GravityCoin,https://www.gravitycoin.io,104.21.46.227,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+uPlexa,https://uplexa.com,172.67.192.78,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Teslafunds,https://teslafunds.io,52.84.77.89,"AS16509 Amazon.com, Inc.",São Paulo,BR,São Paulo,"-23.5475,-46.6361",01000-000,America/Sao_Paulo,Error,server-52-84-77-89.gru3.r.cloudfront.net,
+Lethean,https://lethean.io,198.185.159.145,"AS53831 Squarespace, Inc.",New York City,US,New York,"40.7339,-74.0054",10014,America/New_York,Error,,
+PlusOneCoin,https://www.plusonecoin.org,104.21.10.86,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Graft,https://www.graft.network,172.67.217.204,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+MazaCoin,http://www.mazacoin.org,107.170.173.232,"AS14061 DigitalOcean, LLC",New York City,US,New York,"40.7402,-73.9996",10011,America/New_York,Error,stratum.cryptoadhd.com,
+MotaCoin,https://www.motacoin.net,74.220.219.168,AS46606 Unified Layer,Provo,US,Utah,"40.2338,-111.6585",84601,America/Denver,Error,box2012.bluehost.com,
+ZetaCoin,http://www.zetac.org,198.187.29.27,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,server125-3.web-hosting.com,
+Hush,https://hush.is,104.21.69.181,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+ImageCoin,https://imagecoin.imagehosty.com,172.67.128.181,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+PluraCoin,https://pluracoin.org,104.21.29.191,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+MintMe.com Coin,https://www.mintme.com/coin,,,,,,,,,Error,,
+Swap,https://swap.foundation,185.199.111.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-111-153.github.com,True
+GoByte,https://gobyte.network,172.67.164.202,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Shield,http://www.shield-coin.com,193.34.145.204,AS51167 Contabo GmbH,Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,m3668.contabo.net,
+Shield,http://www.shield-coin.com,193.34.145.204,AS51167 Contabo GmbH,Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,m3668.contabo.net,
+Shield,http://www.shield-coin.com,193.34.145.204,AS51167 Contabo GmbH,Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,m3668.contabo.net,
+Shield,http://www.shield-coin.com,193.34.145.204,AS51167 Contabo GmbH,Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,m3668.contabo.net,
+Shield,http://www.shield-coin.com,193.34.145.204,AS51167 Contabo GmbH,Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,m3668.contabo.net,
+Shield,http://www.shield-coin.com,193.34.145.204,AS51167 Contabo GmbH,Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,m3668.contabo.net,
+Hacash,https://hacash.org,47.244.26.14,"AS45102 Alibaba (US) Technology Co., Ltd.",Kowloon,HK,Kowloon City,"22.3167,114.1833",,Asia/Hong_Kong,Error,,
+Masari,https://getmasari.org,13.224.208.45,"AS16509 Amazon.com, Inc.",Philadelphia,US,Pennsylvania,"39.9523,-75.1638",19099,America/New_York,Error,server-13-224-208-45.phl50.r.cloudfront.net,
+Note Blockchain,https://www.notebc.com,35.247.254.172,AS15169 Google LLC,São Paulo,BR,São Paulo,"-23.5475,-46.6361",01000-000,America/Sao_Paulo,Error,172.254.247.35.bc.googleusercontent.com,
+BBSCoin,https://www.bbscoin.click,172.67.137.58,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Hawaii Coin,http://hawaiicoin.tk,104.247.81.71,AS206834 Team Internet AG,Wyandotte,US,Michigan,"42.2142,-83.1499",48192,America/Detroit,Error,,
+BitCash,https://www.choosebitcash.com,185.199.110.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-110-153.github.com,True
+TerraCoin,https://www.terracoin.io,172.67.223.41,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+CroatCoin,https://croat.community,104.21.49.39,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Emerald Crypto,https://www.emeraldcrypto.de,88.99.161.135,AS24940 Hetzner Online GmbH,Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,trebel.bitpalast.net,
+FlutterCoin,https://fluttercoin.me,65.102.140.115,"AS209 CenturyLink Communications, LLC",Seattle,US,Washington,"47.6036,-122.3256",98104,America/Los_Angeles,Error,mail.ixio.com,
+2ACoin,https://www.2acoin.org,45.76.20.34,"AS20473 The Constant Company, LLC",Fort Wayne,US,Indiana,"41.1306,-85.1289",46825,America/Indiana/Indianapolis,Error,vps.ourlink.net,
+Arionum,https://www.arionum.com,172.67.207.10,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Arionum,https://www.arionum.com,172.67.207.10,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Commercium,https://commercium.net,95.216.200.36,AS24940 Hetzner Online GmbH,Tuusula,FI,Uusimaa,"60.3540,24.9794",04360,Europe/Helsinki,Error,static.36.200.216.95.clients.your-server.de,
+RavenDark,http://www.raven-dark.com,52.217.111.11,"AS16509 Amazon.com, Inc.",Ashburn,US,Virginia,"39.0437,-77.4875",20149,America/New_York,Error,s3-website-us-east-1.amazonaws.com,
+GCN Coin,https://gcn.zone,217.115.115.31,AS30900 Sternforth Ltd.,Dublin,IE,Leinster,"53.3331,-6.2489",D02,Europe/Dublin,Error,cpanel5.webworld.ie,
+Ellaism,https://ellaism.io,104.21.27.19,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+LiteBar,http://litebar.co,65.102.140.115,"AS209 CenturyLink Communications, LLC",Seattle,US,Washington,"47.6036,-122.3256",98104,America/Los_Angeles,Error,mail.ixio.com,
+ParallelCoin,https://parallelcoin.info,172.67.131.20,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+ParallelCoin,https://parallelcoin.info,172.67.131.20,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Pyrk,https://www.pyrk.org,172.67.164.124,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Pyrk,https://www.pyrk.org,172.67.164.124,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Pyrk,https://www.pyrk.org,172.67.164.124,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Pyrk,https://www.pyrk.org,172.67.164.124,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Pyrk,https://www.pyrk.org,172.67.164.124,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Guncoin,http://www.guncoin.info,104.21.5.223,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Bitgesell,https://bitgesell.ca,45.77.202.255,"AS20473 The Constant Company, LLC",Arlington,US,Virginia,"38.8810,-77.1043",22226,America/New_York,Error,45.77.202.255.vultr.com,
+Quebecoin,https://quebecoin.org,172.104.187.179,"AS63949 Linode, LLC",Singapore,SG,Singapore,"1.2897,103.8501",048508,Asia/Singapore,Error,asia1.stressfreehost.com,
+Quebecoin,https://quebecoin.org,172.104.187.179,"AS63949 Linode, LLC",Singapore,SG,Singapore,"1.2897,103.8501",048508,Asia/Singapore,Error,asia1.stressfreehost.com,
+Quebecoin,https://quebecoin.org,172.104.187.179,"AS63949 Linode, LLC",Singapore,SG,Singapore,"1.2897,103.8501",048508,Asia/Singapore,Error,asia1.stressfreehost.com,
+Quebecoin,https://quebecoin.org,172.104.187.179,"AS63949 Linode, LLC",Singapore,SG,Singapore,"1.2897,103.8501",048508,Asia/Singapore,Error,asia1.stressfreehost.com,
+Quebecoin,https://quebecoin.org,172.104.187.179,"AS63949 Linode, LLC",Singapore,SG,Singapore,"1.2897,103.8501",048508,Asia/Singapore,Error,asia1.stressfreehost.com,
+Quebecoin,https://quebecoin.org,172.104.187.179,"AS63949 Linode, LLC",Singapore,SG,Singapore,"1.2897,103.8501",048508,Asia/Singapore,Error,asia1.stressfreehost.com,
+Quebecoin,https://quebecoin.org,172.104.187.179,"AS63949 Linode, LLC",Singapore,SG,Singapore,"1.2897,103.8501",048508,Asia/Singapore,Error,asia1.stressfreehost.com,
+AdvancedInternetBlock,https://www.aib.one,104.21.14.5,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Raptoreum,https://raptoreum.com,181.215.183.135,AS61317 Digital Energy Technologies Ltd.,São Paulo,BR,São Paulo,"-23.5475,-46.6361",01000-000,America/Sao_Paulo,Error,,
+Bitcoin-sCrypt,https://bitcoinscrypt.io,104.219.248.82,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,server139-17.web-hosting.com,
+Metal Music Coin,https://metalmusiccoin.digital,198.54.116.60,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,server264-19.web-hosting.com,
+Cash2,https://cash2.org,185.199.109.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-109-153.github.com,True
+Scriv Network,https://scriv.network,172.67.223.92,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+DeroGold,http://derogold.com,139.99.176.187,AS16276 OVH SAS,Sydney,AU,New South Wales,"-33.8678,151.2073",1001,Australia/Sydney,Error,ip187.ip-139-99-176.net,
+Bsha3,,,,,,,,,,Error,,
+Yenten,http://yentencoin.info,185.199.110.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-110-153.github.com,True
+Tagcoin,http://tagcoin.org,54.174.64.131,"AS14618 Amazon.com, Inc.",Ashburn,US,Virginia,"39.0437,-77.4875",20149,America/New_York,Error,ec2-54-174-64-131.compute-1.amazonaws.com,
+JouleCoin,http://www.jouleco.in,52.0.217.44,"AS14618 Amazon.com, Inc.",Ashburn,US,Virginia,"39.0437,-77.4875",20149,America/New_York,Error,ec2-52-0-217-44.compute-1.amazonaws.com,
+LiteBitcoin,http://www.lbtc.info,31.220.104.196,AS47583 Hostinger International Limited,Atlanta,US,Georgia,"33.7490,-84.3880",30302,America/New_York,Error,,
+NasdaCoin,https://nasdacoin.io,172.67.217.179,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Chaincoin,https://www.chaincoin.org,172.67.220.113,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Kryptokrona,https://kryptokrona.se/en,,,,,,,,,Error,,
+Arion Coin,https://arioncoin.com,154.0.167.201,AS37611 Afrihost (Pty) Ltd,Randburg,ZA,Gauteng,"-26.0941,28.0012",2032,Africa/Johannesburg,Error,afriink.dedicated.co.za,
+Omega Coin,https://omegablockchain.net,167.71.140.8,"AS14061 DigitalOcean, LLC",London,GB,England,"51.5085,-0.1257",EC1A,Europe/London,Error,,
+TheHolyRogerCoin,https://theholyroger.com,172.67.73.217,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Netm,http://netmred.com,99.198.101.250,AS32475 SingleHop LLC,Dawsonville,US,Georgia,"34.4212,-84.1191",30534,America/New_York,Error,s2.fcomet.com,
+Bata,http://bata.io,154.0.174.148,AS37611 Afrihost (Pty) Ltd,Randburg,ZA,Gauteng,"-26.0941,28.0012",2032,Africa/Johannesburg,Error,symmetra.aserv.co.za,
+Bata,http://bata.io,154.0.174.148,AS37611 Afrihost (Pty) Ltd,Randburg,ZA,Gauteng,"-26.0941,28.0012",2032,Africa/Johannesburg,Error,symmetra.aserv.co.za,
+Bata,http://bata.io,154.0.174.148,AS37611 Afrihost (Pty) Ltd,Randburg,ZA,Gauteng,"-26.0941,28.0012",2032,Africa/Johannesburg,Error,symmetra.aserv.co.za,
+Bolivarcoin,https://bolis.info,31.220.104.201,AS47583 Hostinger International Limited,Atlanta,US,Georgia,"33.7490,-84.3880",30302,America/New_York,Error,,
+Boolberry,http://boolberry.com,192.241.200.111,"AS14061 DigitalOcean, LLC",San Francisco,US,California,"37.7309,-122.3886",94124,America/Los_Angeles,Error,,
+Litecoin Plus,http://litecoinplus.co,27.111.82.101,AS38719 Dreamscape Networks Limited,Hong Kong,HK,Central and Western,"22.2783,114.1747",,Asia/Hong_Kong,Error,server-x.ipv4.hkg02.ds.network,
+BitZeny,http://bitzeny.org,153.120.5.171,AS7684 SAKURA Internet Inc.,Sakura,JP,Chiba,"35.7167,140.2333",305-0003,Asia/Tokyo,Error,www19397ui.sakura.ne.jp,
+BitBar,http://bitbar.co,65.102.140.115,"AS209 CenturyLink Communications, LLC",Seattle,US,Washington,"47.6036,-122.3256",98104,America/Los_Angeles,Error,mail.ixio.com,
+Electronero,https://electronero.org,104.21.10.80,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+ArQmA,https://arqma.com,164.68.123.118,AS51167 Contabo GmbH,Nürnberg,DE,Bavaria,"49.4542,11.0775",90402,Europe/Berlin,Error,vmi412585.contaboserver.net,
+Genix,https://genix.cx,149.28.56.171,"AS20473 The Constant Company, LLC",New York City,US,New York,"40.7143,-74.0060",10004,America/New_York,Error,149.28.56.171.vultr.com,
+Veco,https://vecocoin.io,208.91.197.27,AS40034 Confluence Networks Inc,Austin,US,Texas,"30.2672,-97.7431",78701,America/Chicago,Error,,
+Bitcoin Interest,http://bitcoininterest.io,104.21.25.219,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Taler,https://talercrypto.com,172.67.193.59,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+FxTC,https://fixedtradecoin.org,135.125.224.160,AS16276 OVH SAS,Stará Ľubovňa,SK,Prešovský kraj,"49.2986,20.6862",064 01,Europe/Bratislava,Error,,
+FxTC,https://fixedtradecoin.org,135.125.224.160,AS16276 OVH SAS,Stará Ľubovňa,SK,Prešovský kraj,"49.2986,20.6862",064 01,Europe/Bratislava,Error,,
+FxTC,https://fixedtradecoin.org,135.125.224.160,AS16276 OVH SAS,Stará Ľubovňa,SK,Prešovský kraj,"49.2986,20.6862",064 01,Europe/Bratislava,Error,,
+FxTC,https://fixedtradecoin.org,135.125.224.160,AS16276 OVH SAS,Stará Ľubovňa,SK,Prešovský kraj,"49.2986,20.6862",064 01,Europe/Bratislava,Error,,
+FxTC,https://fixedtradecoin.org,135.125.224.160,AS16276 OVH SAS,Stará Ľubovňa,SK,Prešovský kraj,"49.2986,20.6862",064 01,Europe/Bratislava,Error,,
+CheeseCoin,https://cheesecoin.net,208.109.41.243,"AS398101 GoDaddy.com, LLC",Scottsdale,US,Arizona,"33.5092,-111.8990",85261,America/Phoenix,Error,ip-208-109-41-243.ip.secureserver.net,
+BitSend,https://bitsend.info,64.190.62.111,AS47846 SEDO GmbH,Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,,
+Bitcoin Zero,https://bitcoinzerox.net,,,,,,,,,Error,,
+Sato,https://satoex.com/sato,,,,,,,,,Error,,
+BitMark,http://www.bitmark.io,172.67.213.151,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+BitMark,http://www.bitmark.io,172.67.213.151,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+BitMark,http://www.bitmark.io,172.67.213.151,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+BitToken,http://www.bittoken.pw,199.34.228.66,"AS27647 Weebly, Inc.",San Francisco,US,California,"37.7749,-122.4194",94103,America/Los_Angeles,Error,pages-custom-18.weebly.com,
+RuxCrypto,https://rxc.crypto.ba,77.78.207.2,AS42560 Telemach d.o.o. Sarajevo,Sarajevo,BA,Federation of B&H,"43.8486,18.3564",,Europe/Sarajevo,Error,cable-77-78-207-2.dynamic.telemach.ba,
+Veles,https://veles.network,212.48.75.32,AS20738 Host Europe GmbH,Leeds,GB,England,"53.7965,-1.5478",LS1,Europe/London,Error,mx.profiweb.biz,
+Veles,https://veles.network,212.48.75.32,AS20738 Host Europe GmbH,Leeds,GB,England,"53.7965,-1.5478",LS1,Europe/London,Error,mx.profiweb.biz,
+Veles,https://veles.network,212.48.75.32,AS20738 Host Europe GmbH,Leeds,GB,England,"53.7965,-1.5478",LS1,Europe/London,Error,mx.profiweb.biz,
+Veles,https://veles.network,212.48.75.32,AS20738 Host Europe GmbH,Leeds,GB,England,"53.7965,-1.5478",LS1,Europe/London,Error,mx.profiweb.biz,
+Veles,https://veles.network,212.48.75.32,AS20738 Host Europe GmbH,Leeds,GB,England,"53.7965,-1.5478",LS1,Europe/London,Error,mx.profiweb.biz,
+Veles,https://veles.network,212.48.75.32,AS20738 Host Europe GmbH,Leeds,GB,England,"53.7965,-1.5478",LS1,Europe/London,Error,mx.profiweb.biz,
+Brazio,https://braz.io,172.67.187.30,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Chaucha,https://www.chaucha.cl,172.67.132.23,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Strayacoin,https://www.strayacoin.org,103.1.186.134,AS133159 Mammoth Media Pty Ltd,Sydney,AU,New South Wales,"-33.8678,151.2073",1001,Australia/Sydney,Error,www.strayacoin.org,
+Niobio Cash,https://niobiocash.org,104.21.74.86,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+CPUchain,https://cpuchain.org,172.67.128.118,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Emrals,https://www.emrals.com,104.21.30.154,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Straks,https://straks.tech,104.21.38.80,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Bitcoin Fast,https://bitcoinfast.co,65.102.140.115,"AS209 CenturyLink Communications, LLC",Seattle,US,Washington,"47.6036,-122.3256",98104,America/Los_Angeles,Error,mail.ixio.com,
+LanaCoin,https://lanacoin.com/,,,,,,,,,Error,,
+WorldCoin,http://worldcoin.global,64.235.59.38,AS26277 Las Vegas NV Datacenter,Las Vegas,US,Nevada,"36.1750,-115.1372",89111,America/Los_Angeles,Error,lasvegas-nv-datacenter.serverpoint.com,
+VoteCoin,https://votecoin.site,91.239.201.12,AS43541 VSHosting s.r.o.,Prague,CZ,Hlavní město Praha,"50.0880,14.4208",110 00,Europe/Prague,Error,rproxy1.thinline.cz,
+PRiVCY,https://privcy.eu,172.67.154.161,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+BitcoinV,http://www.bitcoinv.org,35.182.95.10,"AS16509 Amazon.com, Inc.",Montréal,CA,Quebec,"45.5088,-73.5878",H2W,America/Toronto,Error,ec2-35-182-95-10.ca-central-1.compute.amazonaws.com,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Globaltoken,https://globaltoken.org,91.92.136.185,AS44901 Belcloud LTD,Sofia,BG,Sofia-Capital,"42.6975,23.3241",1000,Europe/Sofia,Error,globaltoken.org,
+Bellcoin,https://bellcoin.web4u.jp,185.199.108.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-108-153.github.com,True
+BLOC.money,https://bloc.money,95.216.19.40,AS24940 Hetzner Online GmbH,Tuusula,FI,Uusimaa,"60.3540,24.9794",04360,Europe/Helsinki,Error,static.40.19.216.95.clients.your-server.de,
+Titcoin,https://titcoin.github.io,185.199.109.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-109-153.github.com,True
+SorachanCoin,https://www.junkhdd.com,160.16.110.231,AS9370 SAKURA Internet Inc.,Tokyo,JP,Tokyo,"35.6895,139.6917",151-0052,Asia/Tokyo,Error,junkhdd.com,
+RealCoin,https://real-coin.in,93.114.73.13,AS51461 ARKA UNIVERSAL IMPEX SRL,Constanţa,RO,Constanța,"44.1807,28.6343",900003,Europe/Bucharest,Error,client-93-114-73-13.alienstation.ro,
+BitcoiNote,https://www.bitcoinote.org,65.8.205.13,"AS16509 Amazon.com, Inc.",São Paulo,BR,São Paulo,"-23.5475,-46.6361",01000-000,America/Sao_Paulo,Error,,
+CreamCoin,https://creamcoin.com,172.67.203.59,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Blast,https://blastblastblast.com,199.188.200.147,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,server251-2.web-hosting.com,
+Nyxcoin,https://www.nyxcoin.org,85.206.160.100,"AS61272 Informacines sistemos ir technologijos, UAB",Šiauliai,LT,Siauliai,"55.9333,23.3167",76001,Europe/Vilnius,Error,7281-14221.bacloud.info,
+LitecoinZ,https://litecoinz.org,172.67.140.131,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+BitZyon,https://bitzyon.com,172.67.141.252,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Iridium,https://ird.cash,144.208.96.2,AS50673 Serverius,Almelo,NL,Overijssel,"52.3567,6.6625",7607,Europe/Amsterdam,Error,,
+Adv. Tech. Coin,https://advtech.group,5.9.41.6,AS24940 Hetzner Online GmbH,Berlin,DE,Berlin,"52.5244,13.4105",10178,Europe/Berlin,Error,advtech.group,
+DarkSaga,http://darksaga.online,92.249.44.252,AS47583 Hostinger International Limited,Atlanta,US,Georgia,"33.7490,-84.3880",30302,America/New_York,Error,,
+Machinecoin,https://machinecoin.io,104.21.76.230,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+ZeroOneCoin,https://01coin.io,185.199.111.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-111-153.github.com,True
+DigitalPrice,https://digitalprice.org,111.118.215.168,AS394695 PDR,Mumbai,IN,Maharashtra,"19.0728,72.8826",400070,Asia/Kolkata,Error,md-in-49.webhostbox.net,
+SongCoin,http://songcoin.org,103.42.108.46,AS45638 SYNERGY WHOLESALE PTY LTD,Sydney,AU,New South Wales,"-33.8678,151.2073",1001,Australia/Sydney,Error,redirection.synergywholesale.com,
+CranePay,https://cranepay.io,45.77.170.215,"AS20473 The Constant Company, LLC",Singapore,SG,Singapore,"1.2897,103.8501",048508,Asia/Singapore,Error,45.77.170.215.vultr.com,
+HelpTheHomeless,http://hth.world,80.211.84.246,AS31034 Aruba S.p.A.,Arezzo,IT,Tuscany,"43.4628,11.8807",52100,Europe/Rome,Error,host246-84-211-80.serverdedicati.aruba.it,
+Hanacoin,https://www.hanacoin.com,35.213.194.74,AS15169 Google LLC,Sydney,AU,New South Wales,"-33.8678,151.2073",1001,Australia/Sydney,Error,74.194.213.35.bc.googleusercontent.com,
+Mynt,https://getmynt.io,104.21.2.162,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Zettelkasten,https://www.zettelkasten.org,91.250.82.171,AS8972 Host Europe GmbH,Strasbourg,FR,Grand Est,"48.5839,7.7455",67000,Europe/Paris,Error,rs241474.rs.hosteurope.de,
+MoneroV,https://monerov.online,176.58.102.113,"AS63949 Linode, LLC",London,GB,England,"51.5085,-0.1257",EC1A,Europe/London,Error,li452-113.members.linode.com,
+Spacecoin,https://spaceworks.co,165.227.35.158,"AS14061 DigitalOcean, LLC",Toronto,CA,Ontario,"43.7001,-79.4163",M5N,America/Toronto,Error,,
+Arrow,https://www.arrowchain.io,198.49.23.145,"AS53831 Squarespace, Inc.",New York City,US,New York,"40.7339,-74.0054",10014,America/New_York,Error,,
+ANONymous,https://anoncrypto.io,35.213.178.65,AS15169 Google LLC,Singapore,SG,Singapore,"1.2897,103.8501",048508,Asia/Singapore,Error,65.178.213.35.bc.googleusercontent.com,
+SparksPay,http://sparkspay.io,35.156.167.14,"AS16509 Amazon.com, Inc.",Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,ec2-35-156-167-14.eu-central-1.compute.amazonaws.com,
+UltraNote Infinity,https://ultranote.org,172.67.215.161,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Mangocoin,https://www.mangocoin.online,153.92.6.20,AS47583 Hostinger International Limited,Bexley,GB,England,"51.4416,0.1487",DA15,Europe/London,Error,,
+QnodeCoin,https://www.qngnode.cc,104.219.248.70,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,premium14-2.web-hosting.com,
+iBitHub,https://www.ibithub.com,172.67.174.118,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Arto,https://www.arto.cash,104.21.47.7,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+LightBit,https://lightbit.tech,172.67.218.178,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Absolute,https://absolutecoin.net,5.135.122.240,AS16276 OVH SAS,La Celle-sous-Gouzon,FR,Nouvelle-Aquitaine,"46.2149,2.2102",23230,Europe/Paris,Error,ip240.ip-5-135-122.eu,
+OC Protocol,https://ocprotocol.com,152.89.234.40,AS48894 Optimus IT d.o.o.,Ljubljana,SI,Ljubljana,"46.0511,14.5051",1500,Europe/Ljubljana,Error,rh5.neoserv.si,
+MelonHeads,https://www.melonheads.org,172.67.148.156,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Tuxcoin,https://tuxcoin.io/,,,,,,,,,Error,,
+xGalaxy,https://xgalaxy.io,34.98.99.30,AS15169 Google LLC,Kansas City,US,Missouri,"39.0997,-94.5786",64121,America/Chicago,,30.99.98.34.bc.googleusercontent.com,True
+Nekonium,https://nekonium.github.io,185.199.108.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-108-153.github.com,True
+TRUSTplus,https://trustplus.com,104.198.145.4,AS15169 Google LLC,Council Bluffs,US,Iowa,"41.2619,-95.8608",51502,America/Chicago,Error,4.145.198.104.bc.googleusercontent.com,
+Xeonbit,https://xeonbit.com,172.67.145.55,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+GeyserCoin,http://geysercoin.com,207.180.235.74,AS51167 Contabo GmbH,Hamburg,DE,Hamburg,"53.5507,9.9930",20038,Europe/Berlin,Error,vmi374245.contaboserver.net,
+Desire,http://www.desire-crypto.com,64.190.62.111,AS47846 SEDO GmbH,Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,,
+SprintPay,https://sprintpay.net,194.5.156.71,AS47583 Hostinger International Limited,Amsterdam,NL,North Holland,"52.3740,4.8897",1012,Europe/Amsterdam,Error,,
+WrkzCoin,https://www.wrkz.work,104.21.31.217,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+TajCoin,http://tajcoin.tech,152.89.234.40,AS48894 Optimus IT d.o.o.,Ljubljana,SI,Ljubljana,"46.0511,14.5051",1500,Europe/Ljubljana,Error,rh5.neoserv.si,
+UraniumX,http://urx.zone,67.215.3.243,AS36666 GloboTech Communications,Montréal,CA,Quebec,"45.5088,-73.5878",H2W,America/Toronto,Error,duluth.whc.ca,
+Unitus,https://unituscurrency.com,172.67.146.141,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Unitus,https://unituscurrency.com,172.67.146.141,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Unitus,https://unituscurrency.com,172.67.146.141,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Unitus,https://unituscurrency.com,172.67.146.141,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Unitus,https://unituscurrency.com,172.67.146.141,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Mincoin,https://www.mincoin.us,54.94.70.35,"AS16509 Amazon.com, Inc.",São Paulo,BR,São Paulo,"-23.5475,-46.6361",01000-000,America/Sao_Paulo,Error,ec2-54-94-70-35.sa-east-1.compute.amazonaws.com,
+Diminutive Coin,,,,,,,,,,Error,,
+VIVO,https://vivocoin.net,198.57.245.9,AS46606 Unified Layer,Glen Avon,US,California,"34.0117,-117.4848",91752,America/Los_Angeles,Error,198-57-245-9.unifiedlayer.com,
+Exosis,https://www.exosis.org,172.67.200.8,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Zent Cash,http://www.zent.cash,198.54.115.238,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,server225-3.web-hosting.com,
+ImageCash,http://imgcash.imagehosty.com,172.67.128.181,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Fanáticos Cash,https://fanaticoscriptos.com,198.38.82.90,AS23352 Server Central Network,Chicago,US,Illinois,"41.8500,-87.6500",60666,America/Chicago,Error,mocha4005-web1.my-hosting-panel.com,
+VeriumReserve,https://vericoin.info,104.21.57.99,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Zerozed,https://zero-zed.com,85.187.128.31,"AS55293 A2 Hosting, Inc.",Singapore,SG,Singapore,"1.2897,103.8501",048508,Asia/Singapore,Error,sg1-sr7.supercp.com,
+BitcoinMono,https://bitcoinmono.io,172.67.196.142,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+WallStreetBets,https://wallstreetbetsbros.com,173.212.221.110,AS51167 Contabo GmbH,Hersbruck,DE,Bavaria,"49.5108,11.4315",91217,Europe/Berlin,Error,vmi349799.contaboserver.net,
+PaymentCoin,https://www.podbitcoin.com,160.153.129.233,AS21501 Host Europe GmbH,Amsterdam,NL,North Holland,"52.3740,4.8897",1012,Europe/Amsterdam,Error,ip-160-153-129-233.ip.secureserver.net,
+KZCash,https://kzpool.com,195.210.46.18,AS48716 PS Internet Company LLC,Almaty,KZ,Almaty,"43.2567,76.9286",,Asia/Almaty,Error,srv-plesk48.ps.kz,
+Cirquity,https://cirquity.com,172.67.162.14,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Pexa Coin,https://pexaproject.com,174.138.55.214,"AS14061 DigitalOcean, LLC",Clifton,US,New Jersey,"40.8344,-74.1377",07014,America/New_York,Error,pexaproject.com,
+NeetCoin,https://neetcoin.jp,124.37.205.104,AS17506 ARTERIA Networks Corporation,Tokyo,JP,Tokyo,"35.6895,139.6917",151-0052,Asia/Tokyo,Error,124x37x205x104.ap124.ftth.ucom.ne.jp,
+BitCreds,https://bitcreds.org,185.38.249.30,AS197226 SPRINT S.A.,Wrocław,PL,Lower Silesia,"51.1000,17.0333",50-001,Europe/Warsaw,Error,s1.webhosting1st.com,
+Scribe,https://scribe.network,185.199.109.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-109-153.github.com,True
+Evolution,http://evolutionproject.space,62.171.142.111,AS51167 Contabo GmbH,Pirmasens,DE,Rheinland-Pfalz,"49.2015,7.6053",66954,Europe/Berlin,Error,node1.evolutionproject.space,
+Secure Cash,http://scashcoin.com,198.54.117.197,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,,
+Sono,https://projectsono.io,184.154.26.130,AS32475 SingleHop LLC,Parma,US,Ohio,"41.4048,-81.7229",44129,America/New_York,Error,chi100.greengeeks.net,
+Mobit Global,https://mobitglobal.com,160.119.248.211,AS37153 Xneelo (Pty) Ltd,Johannesburg,ZA,Gauteng,"-26.2023,28.0436",2041,Africa/Johannesburg,Error,,
+Akroma,https://akroma.io,,,,,,,,,Error,,
+ZeroClassic,http://zeroclassic.org,104.21.88.108,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+AndesCoin,https://andes-coin.com,45.32.255.156,"AS20473 The Constant Company, LLC",Tokyo,JP,Tokyo,"35.5826,139.7459",143-0006,Asia/Tokyo,Error,andes-coin.com,
+Ubiquitium,http://ubiquitium.com,192.169.220.245,"AS26496 GoDaddy.com, LLC",Paulden,US,Arizona,"34.8856,-112.4682",86334,America/Phoenix,Error,ip-192-169-220-245.ip.secureserver.net,
+NinjaCoin,https://ninjacoin.org,217.160.0.227,AS8560 1&1 IONOS SE,Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,217-160-0-227.elastic-ssl.ui-r.com,
+SpartanCoin,https://spartancoin.ooo,45.63.15.197,"AS20473 The Constant Company, LLC",Rochester,US,New York,"43.1548,-77.6156",14614,America/New_York,Error,spartancoin.ooo,
+Scholarship Coin,https://scholarshipcoin.org,172.67.70.211,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Dinero,https://dinerocoin.org,104.198.14.52,AS15169 Google LLC,The Dalles,US,Oregon,"45.5946,-121.1787",97058,America/Los_Angeles,Error,52.14.198.104.bc.googleusercontent.com,
+Lucent,https://lucentgold.com,172.67.199.243,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Sovereign Coin,https://sovcore.org,142.11.252.197,AS54290 Hostwinds LLC.,Dallas,US,Texas,"32.7831,-96.8067",75270,America/Chicago,Error,client-142-11-252-197.hostwindsdns.com,
+Gold Cash,https://www.goldcashcoin.co.uk,51.195.149.36,AS16276 OVH SAS,Bexley,GB,England,"51.4416,0.1487",DA15,Europe/London,Error,vps-7a084e5b.vps.ovh.net,
+Balkancoin,https://balkancoin.org,107.180.25.128,"AS26496 GoDaddy.com, LLC",Ashburn,US,Virginia,"39.0437,-77.4875",20149,America/New_York,Error,ip-107-180-25-128.ip.secureserver.net,
+intuCoin,http://intucoin.com,162.243.168.144,"AS14061 DigitalOcean, LLC",North Bergen,US,New Jersey,"40.8043,-74.0121",07047,America/New_York,Error,,
+Curvehash,http://curvehashcoin.com,217.160.0.132,AS8560 1&1 IONOS SE,Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,217-160-0-132.elastic-ssl.ui-r.com,
+Talleo,https://www.talleo.org,5.196.133.221,AS16276 OVH SAS,Roubaix,FR,Hauts-de-France,"50.6942,3.1746",59051 CEDEX 1,Europe/Paris,Error,ip221.ip-5-196-133.eu,
+ContentCoin,https://contentdex.com,,,,,,,,,Error,,
+Hilux,http://www.hiluxcoin.com,45.77.243.142,"AS20473 The Constant Company, LLC",Singapore,SG,Singapore,"1.2897,103.8501",048508,Asia/Singapore,Error,45.77.243.142.vultr.com,
+0Cash,https://0cash.org,49.12.7.204,AS24940 Hetzner Online GmbH,Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,static.204.7.12.49.clients.your-server.de,
+Safe SeaFood,http://www.safeseafoodcoin.com,72.167.191.69,"AS26496 GoDaddy.com, LLC",Los Angeles,US,California,"34.0522,-118.2437",90009,America/Los_Angeles,Error,ip-72-167-191-69.ip.secureserver.net,
+Beyondcoin,https://beyondcoin.io,34.233.38.119,"AS14618 Amazon.com, Inc.",Ashburn,US,Virginia,"39.0437,-77.4875",20149,America/New_York,Error,ec2-34-233-38-119.compute-1.amazonaws.com,
+KuberbitCoin,https://kuberbitcoin.co.za,169.239.182.46,AS37153 Xneelo (Pty) Ltd,Johannesburg,ZA,Gauteng,"-26.2023,28.0436",2041,Africa/Johannesburg,Error,cp5-za1.host-ww.net,
+KuberbitCoin,https://kuberbitcoin.co.za,169.239.182.46,AS37153 Xneelo (Pty) Ltd,Johannesburg,ZA,Gauteng,"-26.2023,28.0436",2041,Africa/Johannesburg,Error,cp5-za1.host-ww.net,
+VeggieCoin,https://www.veggiecoin.io,104.21.73.162,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+ClassicBitcoin,http://bitclassic.info,104.219.248.90,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,server135-4.web-hosting.com,
+Armor,https://armornetwork.org,62.171.176.187,AS51167 Contabo GmbH,Munich,DE,Bavaria,"48.1374,11.5755",80331,Europe/Berlin,Error,vmi381277.contaboserver.net,
+Nibble,https://www.nibble-nibble.com,35.247.254.172,AS15169 Google LLC,São Paulo,BR,São Paulo,"-23.5475,-46.6361",01000-000,America/Sao_Paulo,Error,172.254.247.35.bc.googleusercontent.com,
+Kreds,https://kredsblockchain.com,45.34.116.118,AS40676 Psychz Networks,Los Angeles,US,California,"34.0522,-118.2437",90009,America/Los_Angeles,Error,,
+BitToro,https://bittoro.network,172.67.134.248,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+BitcoinMoney,https://bitcoinmoney.digital,34.102.136.180,AS15169 Google LLC,Kansas City,US,Missouri,"39.0997,-94.5786",64121,America/Chicago,,180.136.102.34.bc.googleusercontent.com,True
+Meraki,https://meraki.cash,85.13.149.203,AS34788 Neue Medien Muennich GmbH,Neusalza-Spremberg,DE,Saxony,"51.0395,14.5356",02742,Europe/Berlin,Error,dd32128.kasserver.com,
+IsotopeC,https://isotopec.org/,,,,,,,,,Error,,
+TriveChain,https://trivechain.com,104.21.1.218,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Aquachain,https://aquachain.github.io,185.199.108.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-108-153.github.com,True
+Australia Cash,https://australiacash.org,45.32.241.152,"AS20473 The Constant Company, LLC",Melbourne,AU,Victoria,"-37.8140,144.9633",3000,Australia/Melbourne,Error,45.32.241.152.vultr.com,
+Nilu,http://nilu.tech,172.67.176.6,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Perkle,https://esprezzo.io,65.8.205.12,"AS16509 Amazon.com, Inc.",São Paulo,BR,São Paulo,"-23.5475,-46.6361",01000-000,America/Sao_Paulo,Error,,
+ArtByte,https://www.artbyte.me,104.26.4.13,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Marscoin,http://www.marscoin.org,104.131.61.206,"AS14061 DigitalOcean, LLC",Clifton,US,New Jersey,"40.8344,-74.1377",07014,America/New_York,Error,,
+Moneta Verde,https://mcn.green,172.67.162.148,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+FuturoCoin,https://futurocoin.com,18.196.137.237,"AS16509 Amazon.com, Inc.",Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,ec2-18-196-137-237.eu-central-1.compute.amazonaws.com,
+Sia Classic,https://siaclassic.org,37.48.65.143,AS60781 LeaseWeb Netherlands B.V.,Soest,NL,Utrecht,"52.1733,5.2917",3765,Europe/Amsterdam,Error,,
+BitcoinX,https://bcx.org,192.169.197.112,"AS26496 GoDaddy.com, LLC",Las Vegas,US,Nevada,"36.1750,-115.1372",89111,America/Los_Angeles,Error,ip-192-169-197-112.ip.secureserver.net,
+V-Dimension,,,,,,,,,,Error,,
+Dinastycoin,http://www.dinastycoin.com,77.81.237.102,AS31034 Aruba S.p.A.,Milan,IT,Lombardy,"45.4643,9.1895",20121,Europe/Rome,Error,host102-237-81-77.serverdedicati.aruba.it,
+Super Bitcoin,http://superbtc.org,47.75.142.205,"AS45102 Alibaba (US) Technology Co., Ltd.",Hong Kong,HK,Central and Western,"22.2783,114.1747",,Asia/Hong_Kong,Error,,
+BitcoinVault,https://bitcoinvault.global,191.34.33.139,AS18881 TELEFÔNICA BRASIL S.A,Belo Horizonte,BR,Minas Gerais,"-19.9208,-43.9378",30000-000,America/Sao_Paulo,Error,191.34.33.139.static.adsl.gvt.net.br,
+BADcoin,https://badcoin.net,69.163.165.228,"AS26347 New Dream Network, LLC",Portland,US,Oregon,"45.5234,-122.6762",97207,America/Los_Angeles,Error,apache2-xenon.newberg.dreamhost.com,
+Bitflate,https://bitflate.org,185.199.111.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-111-153.github.com,True
+Long coin,http://longcoin.online,68.65.120.142,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,server175-1.web-hosting.com,
+AurumCoin,http://www.aurumcoin.com,162.241.26.40,AS46606 Unified Layer,Omaha,US,Nebraska,"41.2563,-95.9404",68101,America/Chicago,Error,162-241-26-40.unifiedlayer.com,
+Katzcoin,,,,,,,,,,Error,,
+KryptoFranc,https://kryptofranc.com,5.9.77.101,AS24940 Hetzner Online GmbH,Berlin,DE,Berlin,"52.5244,13.4105",10178,Europe/Berlin,Error,kryptofranc.com,
+Swingcoin,,,,,,,,,,Error,,
+Bitcoin Virtual Gold,https://bitcoinvg.github.io,185.199.111.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-111-153.github.com,True
+Cheetahcoin,,,,,,,,,,Error,,
+EtherSocial,https://ethersocial.network,104.21.72.227,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Atheios,https://www.atheios.com,199.59.242.153,"AS395082 Bodis, LLC",Newark,US,New Jersey,"40.7357,-74.1724",07175,America/New_York,Error,,
+Xerom,https://xerom.org,185.199.111.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-111-153.github.com,True
+Joys Digital,https://joys.digital,34.90.84.98,AS15169 Google LLC,Groningen,NL,Groningen,"53.2192,6.5667",9711,Europe/Amsterdam,Error,98.84.90.34.bc.googleusercontent.com,
+Sumcoin,https://sumcoin.org,68.183.170.102,"AS14061 DigitalOcean, LLC",Santa Clara,US,California,"37.3483,-121.9844",95051,America/Los_Angeles,Error,sumcoin.org,
+Nyancoin,https://www.nyancoin.info,46.235.227.47,AS44684 Mythic Beasts Ltd,London,GB,England,"51.5085,-0.1257",EC1A,Europe/London,Error,enigma.flameport.com,
+Linx,https://mylinx.io,213.32.21.204,AS16276 OVH SAS,Gravelines,FR,Hauts-de-France,"50.9865,2.1281",59820,Europe/Paris,Error,204.ip-213-32-21.eu,
+LunaCoin,https://bitluna.org,199.115.116.216,"AS30633 Leaseweb USA, Inc.",Washington,US,"Washington, D.C.","38.8951,-77.0364",20045,America/New_York,Error,,
+CampusCoin,https://www.campuscoinproject.org,3.130.136.196,"AS16509 Amazon.com, Inc.",Hilliard,US,Ohio,"40.0334,-83.1582",43026,America/New_York,Error,ec2-3-130-136-196.us-east-2.compute.amazonaws.com,
+BADcoin,https://badcoin.net,69.163.165.228,"AS26347 New Dream Network, LLC",Portland,US,Oregon,"45.5234,-122.6762",97207,America/Los_Angeles,Error,apache2-xenon.newberg.dreamhost.com,
+United SciFi,http://www.scificrypto.info,23.229.224.102,"AS26496 GoDaddy.com, LLC",Phoenix,US,Arizona,"33.4484,-112.0740",85001,America/Phoenix,Error,ip-23-229-224-102.ip.secureserver.net,
+Spots,http://www.spt.22web.org,185.27.134.110,AS34119 Wildcard UK Limited,Newcastle upon Tyne,GB,England,"54.9733,-1.6140",NE1,Europe/London,Error,,
+HFRcoin,http://www.hfrco.in,62.210.101.102,AS12876 ONLINE S.A.S.,Paris,FR,Île-de-France,"48.8534,2.3488",75000,Europe/Paris,Error,62-210-101-102.rev.poneytelecom.eu,
+FCKcoin,http://fckcoin.org,23.236.62.147,AS15169 Google LLC,Council Bluffs,US,Iowa,"41.2619,-95.8608",51502,America/Chicago,Error,147.62.236.23.bc.googleusercontent.com,
+IrishCoin,http://www.irishcoin.org,184.168.131.241,"AS26496 GoDaddy.com, LLC",Scottsdale,US,Arizona,"33.5092,-111.8990",85261,America/Phoenix,Error,ip-184-168-131-241.ip.secureserver.net,
+Dobbscoin,http://www.dobbscoin.info/index.bob.php,,,,,,,,,Error,,
+Sakuracoin,https://sakuracoin.wordpress.com,192.0.78.12,"AS2635 Automattic, Inc",San Francisco,US,California,"37.7509,-122.4153",94110,America/Los_Angeles,Error,,True
+CommuterCoin,https://www.commutercoin.co.uk,176.67.160.8,AS13213 UK-2 Limited,London,GB,England,"51.5085,-0.1257",EC1A,Europe/London,Error,uk2sitebuilder.com,
+NewEnglandCoin,https://nengcoin.org,162.241.244.73,AS46606 Unified Layer,Houston,US,Texas,"29.7633,-95.3633",77052,America/Chicago,Error,box5121.bluehost.com,
+Blazecoin,http://blazeco.in,89.187.164.66,AS60068 Datacamp Limited,Dallas,US,Texas,"32.7781,-96.8054",75202,America/Chicago,Error,edge-491.b-cdn.net,
+DigitalEuro,http://www.digitaleuro.info,78.141.210.46,"AS20473 The Constant Company, LLC",Amsterdam,NL,North Holland,"52.4027,4.7592",1047,Europe/Amsterdam,Error,78.141.210.46.vultr.com,
+Aricoin,https://aricoin.org,104.21.79.192,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+WayaWolfCoin,http://wayawolfcoin.org,172.67.171.44,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+MurfCoin,http://www.murfcoin.org,18.217.66.158,"AS16509 Amazon.com, Inc.",Hilliard,US,Ohio,"40.0334,-83.1582",43026,America/New_York,Error,ec2-18-217-66-158.us-east-2.compute.amazonaws.com,
+BitGem,https://bitgem.rocks,65.102.140.115,"AS209 CenturyLink Communications, LLC",Seattle,US,Washington,"47.6036,-122.3256",98104,America/Los_Angeles,Error,mail.ixio.com,
+DingoDollars,,,,,,,,,,Error,,
+BottleCapsPlus,,,,,,,,,,Error,,
+Kronecoin,https://www.kronecoin.org,172.67.190.241,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+BlazerCoin,http://blazercoin.cf,172.67.185.3,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Oracol,https://www.oracol.mobi,212.1.210.185,AS47583 Hostinger International Limited,Atlanta,US,Georgia,"33.7490,-84.3880",30302,America/New_York,Error,cpl74.hosting24.com,
+Bitvaluta,https://bitvaluta.org,67.227.226.240,"AS32244 Liquid Web, L.L.C",Lansing,US,Michigan,"42.7325,-84.5555",48901,America/Detroit,Error,lb01.parklogic.com,
+FloripaCoin,,,,,,,,,,Error,,
+FreakChain,https://freakhouse.dev,104.21.42.112,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Bunnycoin,http://bunnycoin.org,198.54.115.6,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,host41.registrar-servers.com,
+Trinity,https://trinitycointty.weebly.com,199.34.228.53,"AS27647 Weebly, Inc.",San Francisco,US,California,"37.7749,-122.4194",94103,America/Los_Angeles,Error,pages-wildcard-1.weebly.com,
+FlapXCoin,https://flapxcoin.com,216.239.36.21,AS15169 Google LLC,Mountain View,US,California,"37.4056,-122.0775",94043,America/Los_Angeles,,any-in-2415.1e100.net,True
+ScooterCoin,https://scootercoin.org,195.74.38.66,AS35041 Binero AB,Stockholm,SE,Stockholm,"59.3294,18.0687",100 05,Europe/Stockholm,Error,cl-05.atm.binero.net,
+Browncoin,,,,,,,,,,Error,,
+Cubic,https://cubicstakes.tech,198.54.126.99,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,server51-1.web-hosting.com,
+Rosecoin,https://www.rocheston.com/rocheston-resources/rosecoin,,,,,,,,,Error,,
+CubicverseCoin,https://www.cubicversecoin.org,208.82.114.168,"AS33322 Network Data Center Host, Inc.",San Clemente,US,California,"33.4270,-117.6120",92672,America/Los_Angeles,Error,d05272a8.ptr.provps.com,
+Pay Central Service,https://paycentralservice.site,,,,,,,,,Error,,
+VirtaCoin,http://www.virtacoin.online,51.89.48.112,AS16276 OVH SAS,Leverkusen,DE,North Rhine-Westphalia,"51.0500,7.0167",51381,Europe/Berlin,Error,ip112.ip-51-89-48.eu,
+SelaCoin,https://sela-coin.com,104.21.90.107,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+ConnectiCoin,http://connecticoin.com,173.201.176.176,"AS398101 GoDaddy.com, LLC",Scottsdale,US,Arizona,"33.5092,-111.8990",85261,America/Phoenix,Error,ip-173-201-176-176.ip.secureserver.net,
+Snatcoin,https://snatcoin.org,188.166.222.234,"AS14061 DigitalOcean, LLC",Singapore,SG,Singapore,"1.3215,103.6957",627753,Asia/Singapore,Error,,
+Doriancoin,https://doriancoin.org,70.114.25.192,AS11427 Charter Communications Inc,New Braunfels,US,Texas,"29.7229,-98.0742",78130,America/Chicago,Error,cpe-70-114-25-192.satx.res.rr.com,
+Minidoge,http://minidoge.pw,199.188.200.199,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,server244-1.web-hosting.com,
+BitcoinFlex,https://bitcoinflex.org,144.202.22.212,"AS20473 The Constant Company, LLC",Wausau,US,Florida,"30.6321,-85.5888",32463,America/Chicago,Error,144.202.22.212.vultr.com,
+BarrelCrudeCoin,https://www.barrelcrudecoin.com,104.21.90.98,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+VoltPotCoin,https://voltpot.org,104.21.8.116,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Bitzec,https://bitzec.github.io,185.199.110.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-110-153.github.com,True
+SouljaCoin,https://souljacoin.cash,185.199.111.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-111-153.github.com,True
+Collidercoin,https://cryptocollider.com,172.67.147.39,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+B2B Coin,https://b2bcoin.xyz,144.217.250.232,AS16276 OVH SAS,Montréal,CA,Quebec,"45.5088,-73.5878",H2W,America/Toronto,Error,s14-250-232.thcservers.com,
+TycheCash,https://tyche.cash,184.168.131.241,"AS26496 GoDaddy.com, LLC",Scottsdale,US,Arizona,"33.5092,-111.8990",85261,America/Phoenix,Error,ip-184-168-131-241.ip.secureserver.net,
+LuKa,https://www.cryptoluka.cl,190.196.222.41,AS262237 Orbyta S.A.,Santiago,CL,Santiago Metropolitan,"-33.4569,-70.6483",8320000,America/Santiago,Error,servidor.gdm.cl,
+BeFrank,http://www.getfrank.be,81.95.126.77,AS42160 lcp nv,Gent,BE,Flanders,"51.0500,3.7167",9000,Europe/Brussels,Error,v031.belgianhosting.net,
+XCoin,https://xcoin.ninja,,,,,,,,,Error,,
+BitCoal,https://bitcoal.io,195.181.163.193,AS60068 Datacamp Limited,Miami,US,Florida,"25.7629,-80.1895",33131,America/New_York,Error,datapacket.com,
+Infinium-8,https://infinium.space,45.80.149.111,AS204641 HOSTGW SRL,Amsterdam,NL,North Holland,"52.3740,4.8897",1012,Europe/Amsterdam,Error,,
+Societatis,https://societatis.io,172.67.222.227,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+InvestCoin,https://investcoin.pro,81.177.165.51,AS8342 JSC RTComm.RU,Moscow,RU,Moscow,"55.7522,37.6156",101000,Europe/Moscow,Error,,
+VirtacoinPlus,https://www.virtacoin.plus,79.98.29.4,AS62282 UAB Rakrejus,Vilnius,LT,Vilnius,"54.6863,25.2028",04306,Europe/Vilnius,Error,azalija.serveriai.lt,
+PvPCoin,http://plavpla.com,184.168.131.241,"AS26496 GoDaddy.com, LLC",Scottsdale,US,Arizona,"33.5092,-111.8990",85261,America/Phoenix,Error,ip-184-168-131-241.ip.secureserver.net,
+Swipp Coin,http://www.swippcoin.com,88.131.213.114,AS1257 TELE2,Stockholm,SE,Stockholm,"59.3294,18.0687",100 05,Europe/Stockholm,Error,,
+iCash,https://icash.bittogether.com,51.68.154.86,AS16276 OVH SAS,Warsaw,PL,Mazovia,"52.2298,21.0118",00-010,Europe/Warsaw,Error,sofi.hosting.energy,
+Super8,https://super8.network,68.65.122.45,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,server164-4.web-hosting.com,
+GraniteCoin,,,,,,,,,,Error,,
+LKS Coin,https://www.lksfoundation.org,157.245.22.246,"AS14061 DigitalOcean, LLC",Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,,
+Safecrex,https://www.safecrex.trade,104.21.34.94,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Xazab,https://xazab.xyz,34.71.145.63,AS15169 Google LLC,Council Bluffs,US,Iowa,"41.2619,-95.8608",51502,America/Chicago,Error,63.145.71.34.bc.googleusercontent.com,
+BitcoinGem,https://bitcoingem.org,149.28.186.218,"AS20473 The Constant Company, LLC",Sydney,AU,New South Wales,"-33.8678,151.2073",1001,Australia/Sydney,Error,,
+Argentum,http://www.argentum.io,,,,,,,,,Error,,
+Shilling,https://digitalshilling.org,198.54.116.174,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,server224-5.web-hosting.com,
+Hyperspace,https://hspace.app,45.33.88.197,"AS63949 Linode, LLC",Morris Plains,US,New Jersey,"40.8223,-74.4569",07927,America/New_York,Error,li1034-197.members.linode.com,
+BitcoinClashic,https://title.network,192.34.108.74,AS23033 Wowrack.com,Seattle,US,Washington,"47.6062,-122.3321",98111,America/Los_Angeles,Error,additionalcourses.com,
+Argentum,http://www.argentum.io,,,,,,,,,Error,,
+BADcoin,https://badcoin.net,69.163.165.228,"AS26347 New Dream Network, LLC",Portland,US,Oregon,"45.5234,-122.6762",97207,America/Los_Angeles,Error,apache2-xenon.newberg.dreamhost.com,
+Slice,https://slicex.cc,104.21.92.158,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+BADcoin,https://badcoin.net,69.163.165.228,"AS26347 New Dream Network, LLC",Portland,US,Oregon,"45.5234,-122.6762",97207,America/Los_Angeles,Error,apache2-xenon.newberg.dreamhost.com,
+OmotenashiCoin,http://www.omotenashicoin.site,157.7.107.92,"AS7506 GMO Internet,Inc",Tokyo,JP,Tokyo,"35.6895,139.6917",151-0052,Asia/Tokyo,Error,157-7-107-92.virt.lolipop.jp,
+KumaCoin,https://kuma1.kumacoin.dev,185.199.108.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-108-153.github.com,True
+Bitcoin Candy,https://cdy.one,172.67.137.198,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+ExchangeCoin,https://excc.co,172.67.80.77,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Grimm,https://grimmw.io,198.54.120.226,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,premium59-3.web-hosting.com,
+Litecash,https://lite-cash.com,208.113.198.76,"AS26347 New Dream Network, LLC",Washington,US,"Washington, D.C.","38.8951,-77.0364",20045,America/New_York,Error,apache2-udder.rabun.dreamhost.com,
+ParsiCoin,https://parsicoin.net,138.201.141.77,AS24940 Hetzner Online GmbH,Oberdorla,DE,Thuringia,"51.1658,10.4216",99986,Europe/Berlin,Error,static.77.141.201.138.clients.your-server.de,
+Dtor,http://dtor.org,104.238.174.144,"AS20473 The Constant Company, LLC",London,GB,England,"51.5085,-0.1257",EC1A,Europe/London,Error,104.238.174.144.vultr.com,
+Fango,https://fandom.gold,162.255.119.159,"AS22612 Namecheap, Inc.",Los Angeles,US,California,"34.0614,-118.2385",90012,America/Los_Angeles,Error,,
+Infinium-8,https://infinium.space,45.80.149.111,AS204641 HOSTGW SRL,Amsterdam,NL,North Holland,"52.3740,4.8897",1012,Europe/Amsterdam,Error,,
+Bitsum,https://bitsum.money,,,,,,,,,Error,,
+WeChain Coin,http://www.wechaincoin.info,2.57.89.24,AS47583 Hostinger International Limited,Amsterdam,NL,North Holland,"52.3740,4.8897",1012,Europe/Amsterdam,Error,,
+Infinium-8,https://infinium.space,45.80.149.111,AS204641 HOSTGW SRL,Amsterdam,NL,North Holland,"52.3740,4.8897",1012,Europe/Amsterdam,Error,,
+Tritanium,https://tritanium.io,208.109.53.17,"AS26496 GoDaddy.com, LLC",Scottsdale,US,Arizona,"33.5092,-111.8990",85261,America/Phoenix,Error,ip-208-109-53-17.ip.secureserver.net,
+Worktips,https://worktips.xyz,198.54.117.197,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,,
+Bitcoin Hekaton,https://www.bitcoinhekaton.com,167.86.85.141,AS51167 Contabo GmbH,Oberdorla,DE,Thuringia,"51.1658,10.4216",99986,Europe/Berlin,Error,vmi265454.contaboserver.net,
+Pixel Project,https://pixel.rocks,52.58.78.16,"AS16509 Amazon.com, Inc.",Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,ec2-52-58-78-16.eu-central-1.compute.amazonaws.com,
+Chimera,https://chimeraproject.io,172.67.148.237,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Elphyrecoin,https://www.elphyrecoin.xyz,198.252.98.58,AS20068 Hawk Host Inc.,Commerce,US,California,"34.0006,-118.1598",90040,America/Los_Angeles,Error,198.252.98.58-static.reverse.arandomserver.com,
+Avrio,https://avrio-project.github.io/avrio.network,,,,,,,,,Error,,
+FTSCoin,http://ftscoin.xyz,76.104.206.96,"AS7922 Comcast Cable Communications, LLC",Bellingham,US,Washington,"48.7595,-122.4882",98227,America/Los_Angeles,Error,c-76-104-206-96.hsd1.wa.comcast.net,
+Spitch,,,,,,,,,,Error,,
+Ionize,http://www.ionize.xyz,178.238.226.229,AS51167 Contabo GmbH,Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,vmi435356.contaboserver.net,
+Goodness,http://goodnesscoin.xyz,31.31.198.58,"AS197695 Domain names registrar REG.RU, Ltd",Moscow,RU,Moscow,"55.7522,37.6156",101000,Europe/Moscow,Error,server251.hosting.reg.ru,
+CryptoPayAfrica,https://cryptopay.org.za,157.245.174.176,"AS14061 DigitalOcean, LLC",Santa Clara,US,California,"37.3483,-121.9844",95051,America/Los_Angeles,Error,,
+NimboCoin,https://www.nimbocoin.com,35.247.254.172,AS15169 Google LLC,São Paulo,BR,São Paulo,"-23.5475,-46.6361",01000-000,America/Sao_Paulo,Error,172.254.247.35.bc.googleusercontent.com,
+Ombre,http://www.ombrecoin.com,,,,,,,,,Error,,
+Cache,https://cxche.org,51.79.100.195,AS16276 OVH SAS,Montréal,CA,Quebec,"45.5088,-73.5878",H2W,America/Toronto,Error,cxche.org,
+CryptoCoin,http://crypt-o-coin.cash,136.244.68.73,"AS20473 The Constant Company, LLC",London,GB,England,"51.5085,-0.1257",EC1A,Europe/London,Error,mail.wantit.ie,
+c0ban,https://www.c0ban.co,18.235.215.12,"AS14618 Amazon.com, Inc.",Ashburn,US,Virginia,"39.0437,-77.4875",20149,America/New_York,Error,ec2-18-235-215-12.compute-1.amazonaws.com,
+Alpenschilling,https://alpenschilling.cash,,,,,,,,,Error,,
+TourCoin,https://tourcoin.info,45.118.135.69,"AS63949 Linode, LLC",Singapore,SG,Singapore,"1.2897,103.8501",048508,Asia/Singapore,Error,tourcoin.info,
+MoonDEX,https://moondex.org,172.67.73.8,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+DangerCoin,https://dangercoin.org,212.237.1.56,AS31034 Aruba S.p.A.,Rome,IT,Latium,"41.8919,12.5113",00118,Europe/Rome,Error,host56-1-237-212.serverdedicati.aruba.it,
+Ktccoin,https://ktc.network,185.213.209.143,AS204601 Zomro B.V.,Soest,NL,Utrecht,"52.1733,5.2917",3765,Europe/Amsterdam,Error,ktc.exchange,
+LuckyBit,https://luckybitcoin.org,157.230.4.41,"AS14061 DigitalOcean, LLC",North Bergen,US,New Jersey,"40.8043,-74.0121",07047,America/New_York,Error,ubuntu-luckybitcoin.org,
+Halcyon,http://halcyon.top,162.217.250.114,AS58305 SYN LTD,Washington,US,"Washington, D.C.","38.8951,-77.0364",20045,America/New_York,Error,atlas.phoenixcoin.org,
+Argentum,http://www.argentum.io,,,,,,,,,Error,,
+Koto,https://ko-to.org,104.21.61.143,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+BADcoin,https://badcoin.net,69.163.165.228,"AS26347 New Dream Network, LLC",Portland,US,Oregon,"45.5234,-122.6762",97207,America/Los_Angeles,Error,apache2-xenon.newberg.dreamhost.com,
+StoneCoin,http://stonecoin.rocks,104.247.82.13,AS206834 Team Internet AG,Windsor,CA,Ontario,"42.3001,-83.0165",N8X,America/Toronto,Error,,
+Placeholders,https://placeh.io,172.67.140.75,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Historia,http://historia.network,45.32.200.164,"AS20473 The Constant Company, LLC",Dallas,US,Texas,"32.7831,-96.8067",75270,America/Chicago,Error,45.32.200.164.vultr.com,
+Taonacoin,http://taonacoin.com,192.64.119.84,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,,
+Reden,https://reden.reviews,178.62.246.142,"AS14061 DigitalOcean, LLC",Amsterdam,NL,North Holland,"52.3740,4.8897",1012,Europe/Amsterdam,Error,,
+Super Master Node,http://www.smncoin.com,149.129.122.221,"AS45102 Alibaba (US) Technology Co., Ltd.",Kowloon,HK,Kowloon City,"22.3167,114.1833",,Asia/Hong_Kong,Error,,
+Nutucoin,http://nutucoin.com,18.215.128.143,"AS14618 Amazon.com, Inc.",Ashburn,US,Virginia,"39.0437,-77.4875",20149,America/New_York,Error,ec2-18-215-128-143.compute-1.amazonaws.com,
+Bitcoin Subsidium,https://bitcoin-subsidium.org,37.17.224.99,AS44066 DE FirstColo,Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,s99.goserver.host,
+IndexChain,https://www.indexchain.org,68.65.123.94,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,server266-3.web-hosting.com,
+Eleccoin,https://eleccoin.org,78.141.203.23,"AS20473 The Constant Company, LLC",Rotherham,GB,England,"53.4301,-1.3568",S60,Europe/London,Error,78.141.203.23.vultr.com,
+ShroudX,https://shroudx.eu,185.182.56.63,AS48635 PCextreme B.V.,Bloemendaal,NL,North Holland,"52.4025,4.6222",2061,Europe/Amsterdam,Error,vserver44.axc.nl,
+Chipcoin,https://chipcoin.info,,,,,,,,,Error,,
+BlakeStar 2.0,https://blakestar.store,139.64.245.226,AS31798 DataCity,Toronto,CA,Ontario,"43.7001,-79.4163",M5N,America/Toronto,Error,c999961890-cloudpro-894289670.cloudatcost.com,
+SlothCoin,http://www.slothcoin.org,172.67.220.186,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+PricecoinX,https://pricecoincrypto.com,107.180.26.79,"AS26496 GoDaddy.com, LLC",Ashburn,US,Virginia,"39.0437,-77.4875",20149,America/New_York,Error,ip-107-180-26-79.ip.secureserver.net,
+CampusCash,https://www.campuscash.org,199.115.205.166,"AS36436 Infobunker, L.L.C.",Boone,US,Iowa,"42.0597,-93.8802",50037,America/Chicago,Error,panel.blinkinblox.net,
+Argoneum,https://argoneum.net,77.78.104.3,AS15685 CASABLANCA INT a.s.,Bohušovice nad Ohří,CZ,Ústecký kraj,"50.4932,14.1505",411 56,Europe/Prague,Error,yurika.gransy.com,
+Interzone,https://www.interzone.pw,185.199.109.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-109-153.github.com,True
+BuenosCoin,https://www.buenos.io,104.21.9.92,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+BitFree Cash,https://www.bitfree.vip,124.156.199.234,"AS132203 Tencent Building, Kejizhongyi Avenue",Singapore,SG,Singapore,"1.3558,103.8232",574177,Asia/Singapore,Error,,
+Zelantus,https://zelantus.com,155.138.213.221,"AS20473 The Constant Company, LLC",Atlanta,US,Georgia,"33.7490,-84.3880",30302,America/New_York,Error,155.138.213.221.vultr.com,
+Splendid Coin,https://splendidcoin.com,199.188.206.106,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,softsolutionslimited.com,
+GeekCash,https://geekcash.org,104.21.10.245,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+SimpleChain,https://www.simplechain.com,172.67.147.182,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Binarium,https://binarium.money,85.119.149.58,AS50340 OOO Network of data-centers Selectel,Moscow,RU,Moscow,"55.7522,37.6156",101000,Europe/Moscow,Error,,
+Animecoin,https://animeco.in,51.158.101.53,AS12876 ONLINE S.A.S.,Paris,FR,Île-de-France,"48.8534,2.3488",75000,Europe/Paris,Error,53-101-158-51.instances.scw.cloud,
+Gatecoin,https://gatecoin-gate.github.io,185.199.108.153,AS54113 Fastly,San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,,cdn-185-199-108-153.github.com,True
+Tesoro,https://tesoro.dev,160.153.128.33,AS21501 Host Europe GmbH,Amsterdam,NL,North Holland,"52.3740,4.8897",1012,Europe/Amsterdam,Error,ip-160-153-128-33.ip.secureserver.net,
+Xolentum,https://www.xolentum.org,104.21.45.203,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Klaro,https://klaro.ooo,,,,,,,,,Error,,
+Morelo,http://morelo-network.com,188.68.232.9,AS197226 SPRINT S.A.,Rzeszów,PL,Subcarpathia,"50.0413,21.9990",35-001,Europe/Warsaw,Error,n8232h9.sprintdatacenter.net,
+GNTL Coin,https://gntl.co.uk,83.151.238.34,AS51918 Cerberus Networks Ltd,Poulton-le-Fylde,GB,England,"53.8333,-2.9833",FY6,Europe/London,Error,83-151-238-34.dsl.cnl.uk.net,
+TicketsCoin,https://www.ticketszones.com,107.180.4.60,"AS26496 GoDaddy.com, LLC",Ashburn,US,Virginia,"39.0437,-77.4875",20149,America/New_York,Error,ip-107-180-4-60.ip.secureserver.net,
+NashCash,https://nashcash.net,209.126.7.47,AS40021 Contabo Inc.,New York City,US,New York,"40.7143,-74.0060",10004,America/New_York,Error,vmd52840.contaboserver.net,
+traaittPlatform,https://www.traaittplatform.com,162.213.251.251,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,business91-5.web-hosting.com,
+traaittCASH,https://traaittcash.com,162.213.251.251,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,business91-5.web-hosting.com,
+AdonCoin,https://www.adon.network,44.235.202.203,"AS16509 Amazon.com, Inc.",Boardman,US,Oregon,"45.8399,-119.7006",97818,America/Los_Angeles,Error,ec2-44-235-202-203.us-west-2.compute.amazonaws.com,
+Plenteum,https://plenteum.com,197.81.192.36,AS10474 Dimension Data (Pty) Ltd - Optinet,Johannesburg,ZA,Gauteng,"-26.2023,28.0436",2041,Africa/Johannesburg,Error,bl1n4.zadns.co.za,
+BitcoinNova,http://bitcoinnova.org,81.169.145.162,AS6724 Strato AG,Karlsruhe,DE,Baden-Württemberg,"49.0094,8.4044",76133,Europe/Berlin,Error,wa2.rzone.de,
+Argentum,http://www.argentum.io,,,,,,,,,Error,,
+SwampCoin,https://swampthing.net,67.166.253.246,"AS7922 Comcast Cable Communications, LLC",Sandy Springs,US,Georgia,"33.9243,-84.3785",30328,America/New_York,Error,c-67-166-253-246.hsd1.ga.comcast.net,
+Resistance,https://www.resistance.io,104.26.4.223,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+LightningCash,https://lightning-cash.com,74.208.80.30,AS8560 1&1 IONOS SE,Memphis,US,Tennessee,"35.1495,-90.0490",37544,America/Chicago,Error,,
+Tidecoin,http://tidecoin.org,142.202.188.237,AS398019 Dynu Systems Incorporated,Pasadena,US,California,"34.1478,-118.1445",91102,America/Los_Angeles,Error,,
+Ukkey Coin,http://blog.ukkey3.space/?p=128,,,,,,,,,Error,,
+MagPieCoin,http://magpiecoin.org,173.201.189.110,"AS398101 GoDaddy.com, LLC",Scottsdale,US,Arizona,"33.5092,-111.8990",85261,America/Phoenix,Error,ip-173-201-189-110.ip.secureserver.net,
+Elicoin,https://elicoin.net,185.174.171.182,AS206468 Treboradice.net z.s.,Prague,CZ,Hlavní město Praha,"50.0880,14.4208",110 00,Europe/Prague,Error,unassigned.wvg.cloud,
+WaviCoin,http://wavicom.info,35.226.195.144,AS15169 Google LLC,Council Bluffs,US,Iowa,"41.2619,-95.8608",51502,America/Chicago,Error,144.195.226.35.bc.googleusercontent.com,
+Litecoin Finance,https://ltfn.org,172.67.208.208,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Documentchain,https://dms.cash,81.169.215.168,AS6724 Strato AG,Berlin,DE,Berlin,"52.5244,13.4105",10178,Europe/Berlin,Error,h2856724.stratoserver.net,
+TDC Coin,https://neiros.github.io/EN.html,,,,,,,,,Error,,
+Ring Coin,https://ringcoin.tech,172.67.177.88,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+ROI Coin,https://roi-coin.com,108.179.232.144,AS46606 Unified Layer,Houston,US,Texas,"29.8324,-95.4720",77092,America/Chicago,Error,108-179-232-144.unifiedlayer.com,
+Nooncoin,https://nooncurrency.com,101.50.1.80,AS55688 PT. Beon Intermedia,Malang,ID,East Java,"-7.9797,112.6304",,Asia/Jakarta,Error,weaver.jagoanhosting.com,
+Circcash,https://circcashcore.com,192.0.78.24,"AS2635 Automattic, Inc",San Francisco,US,California,"37.7509,-122.4153",94110,America/Los_Angeles,Error,,True
+Combode,https://combode.com,172.67.202.143,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Optical Bitcoin,https://www.powx.org,198.185.159.144,"AS53831 Squarespace, Inc.",New York City,US,New York,"40.7339,-74.0054",10014,America/New_York,Error,,True
+LitecoinHD,https://ltchd.io,3.17.159.91,"AS16509 Amazon.com, Inc.",Hilliard,US,Ohio,"40.0334,-83.1582",43026,America/New_York,Error,ec2-3-17-159-91.us-east-2.compute.amazonaws.com,
+Diskcoin,https://www.diskcoin.org,103.224.212.222,AS133618 Trellian Pty. Limited,Commerce,US,California,"34.0006,-118.1598",90040,America/Los_Angeles,Error,lb-212-222.above.com,
+HDD.Cash,https://www.hdd.cash,,,,,,,,,Error,,
+XRPHD,https://xrphd.org,18.140.92.251,"AS16509 Amazon.com, Inc.",Singapore,SG,Singapore,"1.2897,103.8501",048508,Asia/Singapore,Error,ec2-18-140-92-251.ap-southeast-1.compute.amazonaws.com,
+Mass,https://massnet.org,47.56.46.196,"AS45102 Alibaba (US) Technology Co., Ltd.",Kowloon,HK,Kowloon City,"22.3167,114.1833",,Asia/Hong_Kong,Error,,
+Argentum,http://www.argentum.io,,,,,,,,,Error,,
+Argentum,http://www.argentum.io,,,,,,,,,Error,,
+SexCoin,https://sexcoin.info,149.28.229.101,"AS20473 The Constant Company, LLC",Beverly,US,Massachusetts,"42.5584,-70.8800",01915,America/New_York,Error,149.28.229.101.vultr.com,
+VCash,https://v.cash,18.229.49.158,"AS16509 Amazon.com, Inc.",São Paulo,BR,São Paulo,"-23.5475,-46.6361",01000-000,America/Sao_Paulo,Error,ec2-18-229-49-158.sa-east-1.compute.amazonaws.com,
+Susucoin,https://susukino.com,104.21.235.16,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+iBitcoin,http://ibtc.network,,,,,,,,,Error,,
+Bitcoinrand,https://bitcoinrand.com,216.239.38.21,AS15169 Google LLC,Mountain View,US,California,"37.4056,-122.0775",94043,America/Los_Angeles,,any-in-2615.1e100.net,True
+Escudo Navacense,https://www.escudonavacense.org,190.8.176.118,AS52335 Colombia Hosting,Richardson,US,Texas,"32.9482,-96.7297",75080,America/Chicago,Error,quelal.colombiahosting.com.co,
+Thorcoin,https://thor-coin.com,91.195.240.13,AS47846 SEDO GmbH,Frankfurt am Main,DE,Hesse,"50.1155,8.6842",60311,Europe/Berlin,Error,,
+DemonCoin,,,,,,,,,,Error,,
+Diamond Hands,https://www.diamondhands.ooo,167.88.160.91,AS53667 FranTech Solutions,Las Vegas,US,Nevada,"36.1750,-115.1372",89111,America/Los_Angeles,Error,moomoohost.com,
+PRUX-Coin,https://prux.info,172.67.212.131,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+RedFOX Labs,https://redfoxlabs.io,100.24.208.97,"AS14618 Amazon.com, Inc.",Ashburn,US,Virginia,"39.0437,-77.4875",20149,America/New_York,Error,staticip2.multiscreensite.com,
+Geem,https://geem.io,104.21.53.111,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+BrixCoin,https://www.brixco.in,104.21.45.48,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Helpico,https://www.helpico.io,199.247.4.106,"AS20473 The Constant Company, LLC",Frankfurt am Main,DE,Hesse,"50.1137,8.7119",60314,Europe/Berlin,Error,helpico.io,
+Levocoin,https://www.levocoin.io,188.165.53.185,AS16276 OVH SAS,Erdeven,FR,Brittany,"47.6422,-3.1566",56410,Europe/Paris,Error,cluster021.hosting.ovh.net,
+Wildfire,https://wildfire-coin.com,199.188.201.73,"AS22612 Namecheap, Inc.",San Jose,US,California,"37.3394,-121.8950",95103,America/Los_Angeles,Error,server275-1.web-hosting.com,
+SecureCoin,https://www.securechain.com,35.247.254.172,AS15169 Google LLC,São Paulo,BR,São Paulo,"-23.5475,-46.6361",01000-000,America/Sao_Paulo,Error,172.254.247.35.bc.googleusercontent.com,
+SatoriCoin,https://satori.gold,,,,,,,,,Error,,
+Spawn,https://spawncoin.org,136.144.169.55,AS20857 Transip B.V.,Amsterdam,NL,North Holland,"52.3740,4.8897",1012,Europe/Amsterdam,Error,spawncoin.org,
+Predator Coin,http://predatorcoin.online,104.21.44.236,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Pioncoin,https://pioncoin.org,206.189.232.89,"AS14061 DigitalOcean, LLC",North Bergen,US,New Jersey,"40.8043,-74.0121",07047,America/New_York,Error,pioncoin.org,
+Qbase,https://www.qbase.me,103.224.212.220,AS133618 Trellian Pty. Limited,Commerce,US,California,"34.0006,-118.1598",90040,America/Los_Angeles,Error,lb-212-220.above.com,
+UFO Project,http://ufo.link,88.214.207.96,AS46636 NatCoWeb Corp.,Clifton,US,New Jersey,"40.8584,-74.1638",07015,America/New_York,Error,psta.marketexclusivity.com,
+EtherCore,https://www.ethercore.io,104.21.71.24,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+0xBitcoin,https://0xbitcoin.org,104.21.11.166,"AS13335 Cloudflare, Inc.",San Francisco,US,California,"37.7621,-122.3971",94107,America/Los_Angeles,Error,,True
+Extraterrestrial,https://etcoin.xyz,104.238.159.126,"AS20473 The Constant Company, LLC",Münster,DE,North Rhine-Westphalia,"51.9624,7.6257",48079,Europe/Berlin,Error,104.238.159.126.vultr.com,
